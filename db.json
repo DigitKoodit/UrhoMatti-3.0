@@ -1,0 +1,172 @@
+{
+    "songs": [
+        {
+            "id": 101,
+            "title": "De Brevitae Vitae",
+            "category": "Juhlavat",
+            "melody": "",
+            "comment": "Usein lauletaan vain säkeistöt 1, 4, 5 ja 7",
+            "lyrics": [
+                ":,: Gaudeamus igitur, iuvenes dum sumus! :,:",
+                "Post iucundam iuventutem, post molestam senectutem",
+                ":,: nos habebit humus :,:",
+                "",
+                ":,: Ubi sunt qui ante nos, in mundo fuere? :,:",
+                "Vadite ad superos, transite ad inferos",
+                ":,: ubi iam fuere :,:",
+                "",
+                ":,: Vita nostra brevis est, brevi finietur :,:",
+                "Venit mors velociter, rapit nos atrociter",
+                ":,: nemini parcetur :,:",
+                "",
+                ":,: Vivant academia, vivant professores! :,:",
+                "Vivat membrum quodlibet, vivant membra quaelibet",
+                ":,: semper sint in flore! :,:",
+                "",
+                ":,: Vivant omnes virgines, faciles formosae! :,:",
+                "Vivant et mulieres, tenerae, amabiles,",
+                ":,: bonae, laboriosae! :,:",
+                "",
+                ":,: Vivat et res publica, et qui illam regit! :,:",
+                "Vivat nostra civitas, maecenatum caritas,",
+                ":,: quae nos hic protegit! :,:",
+                ":,: Pereat tristitia, pereant osores! :,:",
+                "Pereat diabolus, quivis antiburschius,",
+                ":,: atque irrisores! :,:",
+                "",
+                ":,: Vivat nostra societas, vivant studiosi! :,:",
+                "Crescat una veritas, floreat fraternitas,",
+                ":,: patriae prosperitas! :,:",
+                "",
+                ":,: Alma Mater floreat, quae nos educavit! :,:",
+                "Caros et commiliones, dissitas in regiones",
+                ":,: sparsos, congregavit :,:"
+            ]
+        },
+        {
+            "id": 102,
+            "title": "Finlandia-hymni",
+            "category": "Juhlavat",
+            "melody": "säv. Jean Sibelius, san. V.A. Koskenniemi",
+            "comment": "",
+            "lyrics": [
+                "Oi Suomi, katso, Sinun päiväs’ koittaa,",
+                "yön uhka karkoitettu on jo pois,",
+                "ja aamun kiuru kirkkaudessa soittaa,",
+                "kuin itse taivahan kansi sois.",
+                "Yön vallat aamun valkeus jo voittaa,",
+                "sun päiväs koittaa, oi synnyinmaa.",
+                "Oi nouse, Suomi, nosta korkealle,",
+                "pää’ seppelöimä suurten muistojen.",
+                "Oi nouse, Suomi, näytit maailmalle,",
+                "sa että karkoitit orjuuden.",
+                "Ja ettet taipunut sa sorron alle,",
+                "on aamus alkanut, synnyinmaa."
+            ]
+        },
+        {
+            "id": 103,
+            "title": "Maamme - Vårt land",
+            "category": "Juhlavat",
+            "melody": "Säv. Fredrik Pacius, san. Johan Ludvig Runeberg, suom. Paavo Cajander",
+            "comment": "",
+            "lyrics": [
+                "Oi, maamme, Suomi, synnyinmaa.",
+                "Soi sana kultainen.",
+                ":,: Ei laaksoa, ei kukkulaa,",
+                "ei vettä, rantaa rakkaampaa,",
+                "kuin kotimaa tää pohjoinen,",
+                "maa kallis isien. :,:",
+                "",
+                "Sun kukoistukses kuorestaan",
+                "kerrankin puhkeaa.",
+                ":,: Viel’ lempemme saa nousemaan",
+                "sun toivos, riemus loistossaan",
+                "ja kerran, laulus, synnyinmaa,",
+                "korkeimman kaiun saa. :,:",
+                "",
+                "Vårt land, vårt land, vårt fosterland,",
+                "ljud högt och dyra ord.",
+                ":,: Ej lyfts en höjd mot himlens rand,",
+                "ej sänks en dal, ej sköljs en strand",
+                "mer äslkad än vår bygd i nord,",
+                "än våra fosterfäders jord. :,:",
+                "",
+                "Din blomning sluten är i knopp,",
+                "skall mogna ur sitt tvång.",
+                ":,: Se, ur vår kärlek skall gå opp",
+                "ditt ljus, din glans, din fröjd, ditt hopp",
+                "och högre klinga skall en gång vår foster-",
+                "ländska song. :,:"
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "title": "Juhlavat",
+            "description": "Perinteitä kunnioittavia lauluja",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "title": "Joulu",
+            "description": "Joululauluja jokaiselle vuodenajalle",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "title": "<3",
+            "description": "Ne laulut, jotka omistat sille kauniille ihmiselle siinä vierelläsi",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "title": "Rock",
+            "description": "Kivenkovat klassikot - sitseilläkin",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "title": "Tupsulaulut",
+            "description": "Teekkarilauluja teekkareille ja teekkarimielisille",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "title": "Sitsit",
+            "description": "Schnaps! Juomalauluja sekä sinun että minun suuhun",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "title": "<40 vol. %",
+            "description": "Tunnelman nostattajat",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "title": ">40 vol. %",
+            "description": "Tunnelman ylläpitäjät",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "title": "Undefined",
+            "description": "Sitsilaulannan heikommin lokeroitavaa materiaalia",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "title": "Tuhmeliinit!",
+            "description": "Ei suositella laulamaan äidin kuuloetäisyydellä",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "title": "Älä laula!",
+            "description": "Ei suositella laulamaan",
+            "image": ""
+        }
+    ]
+}
