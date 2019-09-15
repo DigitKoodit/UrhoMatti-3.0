@@ -7,7 +7,104 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.page {
+  width: 100vw;
+  margin-top: 52px;
+  text-align: center;
+}
+
+.top-bar {
+  position: fixed;
+  top: 0px;
+  height: 50px;
+  width: 100vw;
+  background-color: #333;
+  border-bottom: 2px solid #333;
+}
+
+.top-bar h2 {
+  margin-top: 10px;
+  color: #FFE600;
+}
+
+.top-bar a {
+  text-decoration: none;
+  color: #FFE600;
+  display: block;
+}
+
+
+
+#flyoutMenu {
+    width: 100vw;
+    height: 100vh;
+    background-color: #333;
+    position: fixed;
+    top: 52px;
+    left: 0;
+    transition: transform .3s
+    cubic-bezier(0, .50, 0, 1);
+    overflow: scroll;
+    z-index: 100;
+    justify-content: center;
+    text-align: center;
+}
+
+#flyoutMenu.hide {
+    transform: translate3d(-100vw, 0, 0);
+}
+
+#flyoutMenu.show {
+    transform: translate3d(0vw, 0, 0);
+    overflow: hidden;
+}
+
+
+
+.menu-button {
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    cursor: pointer;
+    display: inline-block;
+    z-index: 200;
+}
+
+.menu-button:hover {
+    cursor: pointer;
+    transform: scale(1.1, 1.1);
+}
+
+.bar1, .bar2, .bar3 {
+    width: 30px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+/* Rotate first bar */
+.menu .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
+    transform: rotate(-45deg) translate(-9px, 6px) ;
+}
+
+/* Fade out the second bar */
+.menu .bar2 {
+    opacity: 0;
+}
+
+/* Rotate last bar */
+.menu .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
+    transform: rotate(45deg) translate(-8px, -8px) ;
+}
+
+
+
+.landing-page {
+  height: calc(100vh - 52px);
+  background-image: url("./images/landing_page.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }

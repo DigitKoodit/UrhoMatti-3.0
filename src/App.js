@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Frontpage from './views/Landing/Frontpage';
+import Frontpage from './views/Landing/LandingPage';
 import Song from './views/Song/Song';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Menu from './components/Menu';
@@ -14,7 +14,7 @@ class App extends Component {
                 <Switch>
                     <Route exact path="/" component={Frontpage} />
                     <Route path="/menu" component={Menu} />
-                    <Route path="/:id" component={Song} />
+                    <Route path="/:id(\d+)" component={Song} />
                 </Switch>
             </BrowserRouter>
         )
