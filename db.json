@@ -107,6 +107,16 @@
             "lyrics": [
                 "ABC"
             ]
+        },
+        {
+            "id":808,
+            "title": "Testitesti",
+            "categoryId": ">40 vol.",
+            "melody": "",
+            "lyrics": [
+                "asda",
+                "asdasdasd"
+            ]
         }
     ],
     "categories": [
@@ -148,13 +158,13 @@
         },
         {
             "id": 7,
-            "title": "<40 vol. %",
+            "title": "<40 vol.",
             "description": "Tunnelman nostattajat",
             "image": ""
         },
         {
             "id": 8,
-            "title": ">40 vol. %",
+            "title": ">40 vol.",
             "description": "Tunnelman ylläpitäjät",
             "image": ""
         },

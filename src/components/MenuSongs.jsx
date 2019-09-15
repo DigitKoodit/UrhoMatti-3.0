@@ -9,7 +9,8 @@ class MenuSongs extends Component {
 	}
 
 	componentDidMount() {
-		fetch(`http://localhost:3001/categories/${this.props.category}/songs`)
+		var categoryId = this.props.category.endsWith("%")  ? this.props.category.slice(0,-2) : this.props.category;
+		fetch(`http://localhost:3001/categories/${categoryId}/songs`)
 			.then(res => res.json())
 			.then(json => {
 				this.setState({
@@ -26,7 +27,7 @@ class MenuSongs extends Component {
             <div>
                 {this.state.songs
                     .map(song =>
-						<a href={song.id}>{song.id}. {song.title}</a>
+						<a href={song.id} key={song.id}>{song.id}. {song.title}</a>
 					)}
             </div>
         )

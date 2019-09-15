@@ -27,11 +27,10 @@ class MenuCategory extends Component {
 			<div>
 				{this.state.categories
 					.map(category =>
-						<div>
+						<div key={category.id}>
 							<a href={category.title}>{category.title}</a>
 							<MenuSongs
 								category={category.title}
-								key={category.id}
 							/>
 						</div>
 				)}

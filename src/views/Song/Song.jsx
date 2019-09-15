@@ -26,7 +26,7 @@ class Song extends Component {
             let song = this.state.song
             console.log(song)
             return (
-				<div>
+				<div className="page">
 					<h3 style={{ fontSize: 24 }}>
 						{song.id}. {song.title}
 					</h3>
