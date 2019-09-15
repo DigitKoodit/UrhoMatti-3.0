@@ -10,7 +10,7 @@ songs: [
     {
         id: 102, (song number)
         title: "Finlandia-hymni", (song title)
-        category: "Juhlavat",
+        categoryId: "Juhlavat",
         melody: "Säv. Jean Sibelius, san. V.A. Koskenniemi" (melody for the song)
         lyrics: [
             "/* Usein lauletaan vain säkeistöt 1, 4, 5 ja 7 */",
