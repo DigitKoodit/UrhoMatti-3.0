@@ -26,16 +26,27 @@ class Song extends Component {
             let song = this.state.song
             console.log(song)
             return (
-				<div className="page">
-					<h3 style={{ fontSize: 24 }}>
-						{song.id}. {song.title}
-					</h3>
-					<p>{song.melody}</p>
-					<p style={{ whiteSpace: 'pre-wrap' }}>
-						{song.lyrics.join('\n')}
-					</p>
-					<a href={song.categoryId}>{song.categoryId}</a>
-				</div>
+				<>
+					<div className="page song-page">
+						<p className="song-header">
+							{song.id}. {song.title}
+						</p>
+						<p className="song-melody">
+							{song.melody}
+						</p>
+						<p className="song-lyrics">
+							{song.lyrics.join('\n')}
+						</p>
+					</div>
+					<div className="song-footer">
+						<a
+							href={song.categoryId}
+							className="song-footer-category"
+						>
+							{song.categoryId}
+						</a>
+					</div>
+				</>
 			);
 	}
 }

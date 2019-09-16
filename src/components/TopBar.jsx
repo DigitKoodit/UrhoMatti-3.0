@@ -20,7 +20,7 @@ class TopBar extends Component {
 	render() {
 		return (
 			<div className="top-bar">
-				<a href="/">
+				<a href="/" className="heading">
 					<h2>Urho Matti v3.0</h2>
 				</a>
 				<MenuButton
