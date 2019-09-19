@@ -124,6 +124,25 @@ body {
   background-image: url("./images/landing_page.png");
   background-size: cover;
   background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.landing-heading {
+  color: #FFE600;
+  font-size: 2.5em;
+  margin-bottom: 40vh;
+}
+
+.landing-images {
+  display: flex;
+}
+.landing-image {
+  flex: auto;
+  padding: 20px;
+  height: 25vh;
 }
 
 
