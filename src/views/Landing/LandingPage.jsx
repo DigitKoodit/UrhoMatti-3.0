@@ -7,14 +7,22 @@ class LandingPage extends Component {
 		<div className="landing-page page">
 			<h2 className="landing-heading">Urho Matti v3.0</h2>
 			<div className="landing-images">
-				<a href="https://www.digit.fi" target="_blank">
+				<a
+					href="https://www.digit.fi"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
 					<img
 						className="landing-image"
 						src={require('../../images/digit.svg')}
 						alt="Digit ry"
 					/>
 				</a>
-				<a href="https://www.nucleus.fi" target="_blank">
+				<a
+					href="https://www.nucleus.fi"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
 					<img
 						className="landing-image"
 						src={require('../../images/nucleus.png')}
