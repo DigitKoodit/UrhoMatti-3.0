@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import MenuButton from './MenuButton';
 import Menu from './Menu';
+import Search from './Search';
 
 
 class TopBar extends Component {
@@ -11,26 +12,36 @@ class TopBar extends Component {
 			menuVisible: false
 		};
 		this.toggleMenu = this.toggleMenu.bind(this);
+		this.toggleMenuButton = this.toggleMenuButton.bind(this);
+
 	}
 
-	toggleMenu() {
+	toggleMenu(e) {
+		console.log(e.target.id);
+		if (!e.target.id || e.target.id === "flyoutMenu") {
+			this.setState({ menuVisible: !this.state.menuVisible });
+		}
+	}
+
+	toggleMenuButton() {
 		this.setState({ menuVisible: !this.state.menuVisible });
 	}
 
 	render() {
 		return (
 			<div className="top-bar">
-				<a href="/" className="heading">
+				<a href="/" className="top-bar-heading">
 					<h2>Urho Matti v3.0</h2>
 				</a>
 				<MenuButton
-					onClick={this.toggleMenu}
+					onClick={this.toggleMenuButton}
 					menuVisible={this.state.menuVisible}
 				/>
 				<Menu
 					onClick={this.toggleMenu}
 					menuVisible={this.state.menuVisible}
 				/>
+				<Search />
 			</div>
 		);
 	}

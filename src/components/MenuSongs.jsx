@@ -27,7 +27,7 @@ class MenuSongs extends Component {
             <div>
                 {this.state.songs
                     .map(song =>
-						<a href={song.id} key={song.id}>{song.id}. {song.title}</a>
+						<a className="menu-song" href={song.id} key={song.id}>{song.id}. {song.title}</a>
 					)}
             </div>
         )

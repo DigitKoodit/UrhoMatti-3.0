@@ -1,9 +1,12 @@
 import React, {Component} from 'react';
+import Select from 'react-select';
 
 class Search extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
+			songs: [],
+			categories: []
         };
     }
     
@@ -24,9 +27,18 @@ class Search extends Component {
 			});
 	}
 	render() {
+		const content = this.state.songs.concat(this.state.categories);
+		const options = [
+			content.map((song) => {
+				return {
+					value: `${song.id}`,
+					label: `${song.id} ${song.title}`
+				};
+			}),
+		];
 		return (
-			<div>
-				
+			<div id="search-bar">
+				<Select options={options[0]} />
 			</div>
 		)
 	}

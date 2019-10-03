@@ -24,11 +24,15 @@ class Menu extends Component {
 			return null;
 		}
 		return (
-			<div id="flyoutMenu"
-                 onClick={this.props.onClick}
-                 className={visibility}>
-                <MenuCategory/>
-            </div>
+			<div
+				id="flyoutMenu"
+				onClick={this.props.onClick}
+				className={visibility}
+			>
+				<div className="menu-content">
+					<MenuCategory />
+				</div>
+			</div>
 		);
 	}
 }
