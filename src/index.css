@@ -23,6 +23,17 @@ body {
 }
 
 
+#search-bar {
+  padding: 0 10px;
+  min-width: 60vw;
+  max-width: 600px;
+  position: fixed;
+  margin-left: auto;
+  left: 0;
+  margin-right: auto;
+  right: 0;
+  z-index: 100;
+}
 
 .top-bar {
   position: fixed;
@@ -35,31 +46,27 @@ body {
 
 .top-bar h2 {
   margin-top: 10px;
-  color: #FFE600;
-}
-
-.top-bar a {
-  text-decoration: none;
-  color: #FFE600;
-  display: inline-block;
   margin-left: 10px;
+  color: #FFE600;
+  text-decoration: none;
+  display: inline-block;
 }
 
 
 
 #flyoutMenu {
-    width: 100vw;
-    height: 100vh;
-    background-color: #333;
-    position: fixed;
-    top: 52px;
-    left: 0;
-    transition: transform .3s
-    cubic-bezier(0, .50, 0, 1);
-    overflow: scroll;
-    z-index: 100;
-    justify-content: center;
-    text-align: center;
+  width: 100vw;
+  height: calc(100vh - 52px);
+  background-color: #333;
+  position: fixed;
+  top: 52px;
+  left: 0;
+  transition: transform .3s
+  cubic-bezier(0, .50, 0, 1);
+  overflow-y: auto;
+  z-index: 100;
+  justify-content: center;
+  text-align: center;
 }
 
 #flyoutMenu a {
@@ -68,12 +75,40 @@ body {
 }
 
 #flyoutMenu.hide {
-    transform: translate3d(-100vw, 0, 0);
+  transform: translate3d(-100vw, 0, 0);
 }
 
 #flyoutMenu.show {
-    transform: translate3d(0vw, 0, 0);
-    overflow: hidden;
+  transform: translate3d(0vw, 0, 0);
+}
+
+.menu-content {
+  padding-top: 58px;
+  max-width: 300px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu-content a {
+  text-decoration: none;
+  color: #FFE600;
+  display: inline-block;
+  text-align: left;
+}
+
+.menu-category {
+  font-size: 1.8rem;
+  margin-top: 10px;
+}
+
+.menu-song {
+  margin-bottom: 10px;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2em;
 }
 
 
@@ -149,7 +184,7 @@ body {
 
 .song-header {
   font-size: 1.5em;
-  padding-top: 25px;
+  padding-top: 83px;
   margin: 0;
   font-weight: bold;
 }
@@ -177,4 +212,25 @@ body {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.2em;
+}
+
+
+.category-header {
+  font-size: 2em;
+  padding-top: 83px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.category-page {
+  background-color: #333;
+}
+
+.category-songs {
+  display: flex;
+  flex-direction: column;
+}
+
+.category-image-container {
+  height: 30vh;
 }

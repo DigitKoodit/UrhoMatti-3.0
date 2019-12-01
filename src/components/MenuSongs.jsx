@@ -23,14 +23,15 @@ class MenuSongs extends Component {
         if (!this.state.isLoaded) {
 			return null;
 		}
-		return(
-            <div>
-                {this.state.songs
-                    .map(song =>
-						<a className="menu-song" href={song.id} key={song.id}>{song.id}. {song.title}</a>
-					)}
-            </div>
-        )
+		return (
+			<div className="category-songs">
+				{this.state.songs.map(song => (
+					<a className="menu-song" href={song.id} key={song.id}>
+						{song.id}. {song.title}
+					</a>
+				))}
+			</div>
+		);
 	}
 }
 

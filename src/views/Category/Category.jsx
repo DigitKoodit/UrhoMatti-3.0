@@ -24,16 +24,23 @@ class Song extends Component {
 		if (!this.state.isLoaded) {
 			return <div>Loading...</div>;
 		}
-        let category = this.state.category;
+		let category = this.state.category;
 		return (
 			<>
 				<div className="page song-page">
 					<p className="category-header">
 						{category.id}. {category.title}
 					</p>
-					<div className="category-songs">
-						<MenuSongs category={category.title} />
+					<div className="category-image-container">
+						<img
+							src={require('../../images/categories/' +
+								category.image +
+								'.png')}
+							alt={category.image}
+							height="100%"
+						/>
 					</div>
+					<MenuSongs category={category.title} />
 				</div>
 				<div className="song-footer">
 					<a href={category.title} className="song-footer-category">

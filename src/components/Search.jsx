@@ -32,7 +32,7 @@ class Search extends Component {
 			content.map((song) => {
 				return {
 					value: `${song.id}`,
-					label: `${song.id} ${song.title}`
+					label: `${song.id}. ${song.title}`
 				};
 			}),
 		];
