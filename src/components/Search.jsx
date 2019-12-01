@@ -29,18 +29,25 @@ class Search extends Component {
 	render() {
 		const content = this.state.songs.concat(this.state.categories);
 		const options = [
-			content.map((song) => {
+			content.map(song => {
 				return {
-					value: `${song.id}`,
+					value: song.id < 100 ? `${song.title}` : `${song.id}`,
 					label: `${song.id}. ${song.title}`
 				};
 			}),
 		];
 		return (
 			<div id="search-bar">
-				<Select options={options[0]} />
+				<Select
+					options={options[0]}
+					placeholder="Hae laulua tai kategoriaa"
+					noOptionsMessage={() => "Ei tuloksia"}
+					onChange={option =>
+						(window.location.href = '/' + option.value + '')
+					}
+				/>
 			</div>
-		)
+		);
 	}
 }
 
