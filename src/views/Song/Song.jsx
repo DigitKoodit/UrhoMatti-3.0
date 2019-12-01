@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import { port } from '../../index';
 
 class Song extends Component {
 	constructor(props) {
@@ -9,7 +10,7 @@ class Song extends Component {
 	}
     
     componentDidMount() {
-        fetch(`http://localhost:3001/songs/${this.props.match.params.id}`)
+        fetch(`http://localhost:${port}/songs/${this.props.match.params.id}`)
 			.then(res => res.json())
 			.then(json => {
 				this.setState({
@@ -24,7 +25,6 @@ class Song extends Component {
 			return <div>Loading...</div>
 		}
             let song = this.state.song
-            console.log(song)
             return (
 				<>
 					<div className="page song-page">

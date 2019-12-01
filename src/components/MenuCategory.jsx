@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import MenuSongs from './MenuSongs';
+import { port } from '../index';
 
 class MenuCategory extends Component {
 	constructor(props) {
@@ -10,7 +11,7 @@ class MenuCategory extends Component {
 	}
 
 	componentDidMount() {
-		fetch(`http://localhost:3001/categories`)
+		fetch(`http://localhost:${port}/categories`)
 			.then(res => res.json())
 			.then(json => {
 				this.setState({

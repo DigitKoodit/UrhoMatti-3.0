@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Select from 'react-select';
+import { port } from '../index';
 
 class Search extends Component {
 	constructor(props) {
@@ -11,14 +12,14 @@ class Search extends Component {
     }
     
     componentDidMount() {
-        fetch(`http://localhost:3001/songs`)
+        fetch(`http://localhost:${port}/songs`)
 			.then(res => res.json())
 			.then(json => {
 				this.setState({
 					songs: json
 				});
 			});
-		fetch(`http://localhost:3001/categories`)
+		fetch(`http://localhost:${port}/categories`)
 			.then(res => res.json())
 			.then(json => {
 				this.setState({

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import MenuSongs from '../../components/MenuSongs';
+import { port } from '../../index';
 
 class Song extends Component {
 	constructor(props) {
@@ -10,7 +11,7 @@ class Song extends Component {
 	}
 
 	componentDidMount() {
-		fetch(`http://localhost:3001/categories/?title=${this.props.match.params.title}`)
+		fetch(`http://localhost:${port}/categories/?title=${this.props.match.params.title}`)
 			.then(res => res.json())
 			.then(json => {
 				this.setState({

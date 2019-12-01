@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { port } from '../index';
 
 class MenuSongs extends Component {
 	constructor(props) {
@@ -10,7 +11,7 @@ class MenuSongs extends Component {
 
 	componentDidMount() {
 		var categoryId = this.props.category.endsWith("%")  ? this.props.category.slice(0,-2) : this.props.category;
-		fetch(`http://localhost:3001/categories/${categoryId}/songs`)
+		fetch(`http://localhost:${port}/categories/${categoryId}/songs`)
 			.then(res => res.json())
 			.then(json => {
 				this.setState({

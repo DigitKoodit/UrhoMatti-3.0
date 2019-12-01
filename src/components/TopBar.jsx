@@ -17,7 +17,6 @@ class TopBar extends Component {
 	}
 
 	toggleMenu(e) {
-		console.log(e.target.id);
 		if (!e.target.id || e.target.id === "flyoutMenu") {
 			this.setState({ menuVisible: !this.state.menuVisible });
 		}
