@@ -30,6 +30,18 @@ class Menu extends Component {
 				className={visibility}
 			>
 				<div className="menu-content">
+					<a
+						className="menu-category menu-category-special"
+						href={'hymni'}
+					>
+						{'Teekkarihymni'}
+					</a>
+					<a
+						className="menu-category menu-category-special"
+						href={'saannot'}
+					>
+						{'Säännöt'}
+					</a>
 					<MenuCategory />
 				</div>
 			</div>

@@ -91,6 +91,10 @@ body {
   margin-right: auto;
 }
 
+.menu-song-list {
+  margin-top: 30px;
+}
+
 .menu-content a {
   text-decoration: none;
   color: #FFE600;
@@ -101,6 +105,10 @@ body {
 .menu-category {
   font-size: 1.8rem;
   margin-top: 10px;
+}
+
+.menu-category-special {
+  margin: 0;
 }
 
 .menu-song {
@@ -203,7 +211,6 @@ body {
   padding: 15px 0px;
   width: 100%;
   bottom: 0;
-  display: absolute;
   text-align: center;
 }
 
@@ -212,6 +219,7 @@ body {
   text-decoration: none;
   font-weight: bold;
   font-size: 1.2em;
+  margin: 0;
 }
 
 
@@ -233,4 +241,30 @@ body {
 
 .category-image-container {
   height: 30vh;
+}
+
+
+.hymni-page {
+  background-color: black;
+  color: white;
+  min-height: calc(100% - 52px);
+  display: flex;
+  font-weight: bold;
+}
+
+.hymni {
+  margin: auto;
+  padding-bottom: 10vh;
+}
+
+
+.rules {
+  width: 80vw;
+  max-width: 600px;
+  display: inline-block;
+  text-align: left;
+}
+
+.indent {
+  padding-left: 25px;
 }
