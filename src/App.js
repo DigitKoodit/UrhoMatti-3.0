@@ -16,8 +16,14 @@ class App extends Component {
             <TopBar/>
                 <Switch>
                     <Route exact path="/" component={LandingPage} />
-                    <Route path="/:id(\d+)" render={(sid) => <Song song={db["songs"].find((song) => (song.id) === sid.match.params.id)} />}/>
-                    <Route path="/:title(Juhlavat|Joulu|<3|Rock|Tupsulaulut|Sitsit|<40 vol.|>40 vol.|Undefined|Tuhmeliinit!|Älä laula!)/" render={(sid) => <Category category={db["categories"].find((category) => (category.title) === sid.match.params.title)}/>} />
+                    <Route
+                        path="/:id(\d+)"
+                        render={(path) => <Song song={db["songs"].find((song) => (song.id) === parseInt(path.match.params.id))} />}
+                    />
+                    <Route
+                        path="/:title(Juhlavat|Joulu|<3|Rock|Tupsulaulut|Sitsit|<40 vol.|>40 vol.|Undefined|Tuhmeliinit!|Älä laula!)/"
+                        render={(path) => <Category category={db["categories"].find((category) => (category.title) === path.match.params.title)} songs={db["songs"].filter(song => song.categoryId === path.match.params.title)} />}
+                    />
                     <Route exact path="/hymni" component={Hymni} />
                     <Route exact path="/saannot" component={Rules} />
                 </Switch>

@@ -19,10 +19,16 @@ class Song extends Component {
 							height="100%"
 						/>
 					</div>
-					<MenuSongs category={this.props.category.title} />
+					<MenuSongs
+						category={this.props.category.title}
+						songs={this.props.songs}
+					/>
 				</div>
 				<div className="song-footer">
-					<a href={this.props.category.title} className="song-footer-category">
+					<a
+						href={this.props.category.title}
+						className="song-footer-category"
+					>
 						{this.props.category.title}
 					</a>
 				</div>

@@ -6,7 +6,6 @@ class Search extends Component {
     
 	render() {
 		const content = db['songs'].concat(db['categories']);
-		console.log(db);
 		const options = [
 			content.map(song => {
 				return {
