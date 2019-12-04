@@ -1,49 +1,28 @@
 import React, {Component} from 'react';
-import { port } from '../../index';
 
 class Song extends Component {
-	constructor(props) {
-		super(props);
-		this.state = {
-			isLoaded : false,
-		};
-	}
-    
-    componentDidMount() {
-        fetch(`http://localhost:${port}/songs/${this.props.match.params.id}`)
-			.then(res => res.json())
-			.then(json => {
-				this.setState({
-					song: json,
-					isLoaded: true
-				});
-			});
-    }
 
 	render() {
-        if (!this.state.isLoaded){
-			return <div>Loading...</div>
-		}
-            let song = this.state.song
+		console.log(this.props.song);
             return (
 				<>
 					<div className="page song-page">
 						<p className="song-header">
-							{song.id}. {song.title}
+							{this.props.song.id}. {this.props.song.title}
 						</p>
 						<p className="song-melody">
-							{song.melody}
+							{this.props.song.melody}
 						</p>
 						<p className="song-lyrics">
-							{song.lyrics.join('\n')}
+							{this.props.song.lyrics.join('\n')}
 						</p>
 					</div>
 					<div className="song-footer">
 						<a
-							href={song.categoryId}
+							href={this.props.song.categoryId}
 							className="song-footer-category"
 						>
-							{song.categoryId}
+							{this.props.song.categoryId}
 						</a>
 					</div>
 				</>

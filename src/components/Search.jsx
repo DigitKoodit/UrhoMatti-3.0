@@ -1,34 +1,12 @@
 import React, {Component} from 'react';
 import Select from 'react-select';
-import { port } from '../index';
+import db from '../db.json';
 
 class Search extends Component {
-	constructor(props) {
-		super(props);
-		this.state = {
-			songs: [],
-			categories: []
-        };
-    }
     
-    componentDidMount() {
-        fetch(`http://localhost:${port}/songs`)
-			.then(res => res.json())
-			.then(json => {
-				this.setState({
-					songs: json
-				});
-			});
-		fetch(`http://localhost:${port}/categories`)
-			.then(res => res.json())
-			.then(json => {
-				this.setState({
-					categories: json
-				});
-			});
-	}
 	render() {
-		const content = this.state.songs.concat(this.state.categories);
+		const content = db['songs'].concat(db['categories']);
+		console.log(db);
 		const options = [
 			content.map(song => {
 				return {
