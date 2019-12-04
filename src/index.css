@@ -172,12 +172,10 @@ body {
   align-items: center;
 }
 
-.landing-image-container {
-  height: 85vh;
-}
-
 .landing-image {
   flex: auto;
+  height: 85vh;
+  width: 100vw;
 }
 
 

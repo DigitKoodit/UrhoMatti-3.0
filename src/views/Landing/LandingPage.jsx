@@ -9,8 +9,9 @@ class LandingPage extends Component {
 				<img
 					className="landing-image"
 					src={require('../../images/landing.svg')}
-					alt="Nucleus ry"
+					alt="Urho Matti 3.0 logo"
 					height="100%"
+					width="100%"
 				/>
 			</div>
 		</div>
