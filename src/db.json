@@ -3763,7 +3763,6 @@
                 "Mutt\u2019 jos s\u00e4\u00e4d\u00e4t, s\u00e4\u00e4d\u00e4t, s\u00e4\u00e4d\u00e4t vaan,  ",
                 "servos\u00e4\u00e4din hajoaa.",
                 "",
-                ">40%",
                 "Nablaa, nablaa, nablaa vaan,  ",
                 "huomenna on sulla roottori.  ",
                 "Mutt\u2019 jos nablaat, nablaat, nablaat vaan,  ",
@@ -3790,9 +3789,7 @@
                 "Tag dig en vodka,  ",
                 "Hej! Tavaritj, en liten vodka!  ",
                 "Glasen i botten vi tillsammans t\u00f6mmer,  ",
-                "Det kommer mera efter hand. Hej sk\u00e5l!",
-                "",
-                ">40%"
+                "Det kommer mera efter hand. Hej sk\u00e5l!"
             ],
             "categoryId": ">40 vol.",
             "melody": "Kasakkapartio"
@@ -3813,9 +3810,7 @@
                 "NYT koukkuselk\u00e4 suortuu,  ",
                 "niin kaikk\u2019 on mieliss\u00e4\u00e4n.  ",
                 "Ja hyv\u00e4, l\u00e4mmin hell\u00e4 on mieli jokaisen.  ",
-                "Oi, jospa ihmisell\u00e4 ois joulu ainainen!",
-                "",
-                ">40%"
+                "Oi, jospa ihmisell\u00e4 ois joulu ainainen!"
             ],
             "categoryId": ">40 vol.",
             "melody": ""
@@ -3837,9 +3832,7 @@
                 ":,: Mutt\u2019 tarjositpas vett\u00e4, ",
                 "he huudahtivat ett\u00e4:  ",
                 "\u201cSe ruostuttaapi kaiken,  ",
-                "viek\u00e4\u00e4 hemmettihin!\u201d :,:",
-                "",
-                ">40%"
+                "viek\u00e4\u00e4 hemmettihin!\u201d :,:"
             ],
             "categoryId": ">40 vol.",
             "melody": ""
@@ -3861,9 +3854,7 @@
                 "Vie kuolleet fuksit hemmettiin. :,: ",
                 ":,: Ja jos m\u00e4 sitten kuolen ",
                 "kyll\u2019 kilta pit\u00e4\u00e4 huolen,  ",
-                "ett\u2019 pokerpoksiin minut haudataan. :,:",
-                "",
-                ">40%"
+                "ett\u2019 pokerpoksiin minut haudataan. :,:"
             ],
             "categoryId": ">40 vol.",
             "melody": ""
@@ -3885,9 +3876,7 @@
                 "",
                 ":,: Me baarikaapin n\u00e4\u00e4mme ja sen ",
                 "valtaamme ",
-                "ja kossupullon huiviin heit\u00e4mme, perkele! :,:",
-                "",
-                ">40%"
+                "ja kossupullon huiviin heit\u00e4mme, perkele! :,:"
             ],
             "categoryId": ">40 vol.",
             "melody": ""
@@ -3923,9 +3912,7 @@
                 "",
                 "Mutta tied\u00e4n  ",
                 "m\u00e4 keinon mik\u00e4 auttaapi tuo: ",
-                "Ota ryyppy, ja muistis juo!",
-                "",
-                ">40%"
+                "Ota ryyppy, ja muistis juo!"
             ],
             "categoryId": ">40 vol.",
             "melody": ""
@@ -3957,9 +3944,7 @@
                 "Tivolissa puhutaan latinaa,  ",
                 "Agoralla Javaa, B\u00e5rgenilla ruotsia,  ",
                 "Sotkulla puhuttiin norjaa,  ",
-                "siis malja sille nostakaa.",
-                "",
-                ">40%"
+                "siis malja sille nostakaa."
             ],
             "categoryId": ">40 vol.",
             "melody": "Euroviisujen tunnushymni"
@@ -3996,9 +3981,7 @@
                 "Tiu-tau-tiu-tau-tili-tali-tittan,  ",
                 "Teekkarit laulaa sitseill\u00e4. ",
                 ":,: Pikkuiset fuksit ne luenoilla pysyy ",
-                "kirkkaalla p\u00e4iv\u00e4n valolla :,:",
-                "",
-                ">40%"
+                "kirkkaalla p\u00e4iv\u00e4n valolla :,:"
             ],
             "categoryId": ">40 vol.",
             "melody": "M\u00f6rri-M\u00f6ykky"
@@ -4027,9 +4010,7 @@
                 "",
                 "Hei herra tuomari, min\u00e4 olen juomari...",
                 "",
-                "No tottahan toki min\u00e4 huvikseni ryypp\u00e4\u00e4n...",
-                "",
-                ">40%"
+                "No tottahan toki min\u00e4 huvikseni ryypp\u00e4\u00e4n..."
             ],
             "categoryId": ">40 vol.",
             "melody": "Herrojen kanssa pellon laidalla"
@@ -4063,9 +4044,7 @@
                 "mutta korkin avaamalla,  ",
                 "sulaa syd\u00e4n uudelleen.",
                 "",
-                "Ja alla jallut\u00e4hden...",
-                "",
-                ">40%"
+                "Ja alla jallut\u00e4hden..."
             ],
             "categoryId": ">40 vol.",
             "melody": "T\u00e4\u00e4ll\u00e4 Pohjant\u00e4hden alla"
@@ -4092,9 +4071,7 @@
                 "",
                 "Paljon Taxia vaan! Paljon taxia vaan!  ",
                 "Paljon Taxia juodaan!  ",
-                "Paljon Taxia vaan!",
-                "",
-                ">40%"
+                "Paljon Taxia vaan!"
             ],
             "categoryId": ">40 vol.",
             "melody": "Paljon onnea vaan"
@@ -4122,9 +4099,7 @@
                 "Kuudennella alkaa jo ahdas olla nielu, ja ",
                 "seitsem\u00e4tt\u2019 ei ota kukaan kristillinen sielu, ",
                 "ja enkalus-venkalus-junkens-tiravara-",
-                "skrivatuva-hiruvatu-rillumarei.",
-                "",
-                ">40%"
+                "skrivatuva-hiruvatu-rillumarei."
             ],
             "categoryId": ">40 vol.",
             "melody": "Karjalan poikia"
@@ -4157,9 +4132,7 @@
                 "niin helmaan Viinaj\u00e4rven  ",
                 "loikattais kuolemaan.  ",
                 "Ja me ryyp\u00e4tt\u00e4is vain viinaa... ",
-                "Kyll\u00e4 vaan!",
-                "",
-                ">40%"
+                "Kyll\u00e4 vaan!"
             ],
             "categoryId": ">40 vol.",
             "melody": ""
@@ -4194,7 +4167,6 @@
                 "",
                 "Hei juttele...",
                 "",
-                ">40%",
                 "N\u00e4in min\u00e4 Niilin rannikot,  ",
                 "n\u00e4in krokotiilit ja faaraot.  ",
                 "Siell\u00e4 muumiot oli niinkuin ennenkin  ",
@@ -4228,7 +4200,6 @@
                 "Vaan kun suutelin sit\u00e4 pyrst\u00f6lle,  ",
                 "Se haukkas mun perseeni lounaakseen.",
                 "",
-                ">40%",
                 "Hei juttele ...",
                 "",
                 "Ja matkalla aikamerkkin\u00e4,  ",
@@ -4257,9 +4228,7 @@
                 "Vaan kun muona alkoi loppua,  ",
                 "Meid\u00e4n t\u00e4ytyi sy\u00f6d\u00e4 Afrikka.",
                 "",
-                "Hei juttele ...",
-                "",
-                ">40%"
+                "Hei juttele ..."
             ],
             "categoryId": ">40 vol.",
             "melody": ""
@@ -4286,9 +4255,7 @@
                 "",
                 "\u00c4idin pienet sienet menee mets\u00e4\u00e4n...",
                 "",
-                "\u00c4idin pienet sienet tekee tehtaan...",
-                "",
-                ">40%"
+                "\u00c4idin pienet sienet tekee tehtaan..."
             ],
             "categoryId": ">40 vol.",
             "melody": "Porsaita \u00e4idin oomme kaikki"
@@ -4319,9 +4286,7 @@
                 "Viinaa siell\u00e4 ja viinaa t\u00e4\u00e4ll\u00e4,  ",
                 "siell\u00e4 viinaa, t\u00e4\u00e4ll\u00e4 viinaa,  ",
                 "joka puolella viinaa.  ",
-                "Kuka sen pullon vei?",
-                "",
-                ">40%"
+                "Kuka sen pullon vei?"
             ],
             "categoryId": ">40 vol.",
             "melody": "Piippolan vaari"
@@ -4359,9 +4324,7 @@
                 "C++ on nopea.  ",
                 "C++:lla koodaat vaikka  ",
                 "koko softan bugisen.  ",
-                "Sellainen on C++!",
-                "",
-                ">40%"
+                "Sellainen on C++!"
             ],
             "categoryId": ">40 vol.",
             "melody": "Puuhamaa"
@@ -4394,9 +4357,7 @@
                 "Koskenkorvan kanssa ",
                 "mielet nostattaa. ",
                 ":,: Lohdutusta tuo, ",
-                "siisp\u00e4 veikko juo! :,:",
-                "",
-                ">40%"
+                "siisp\u00e4 veikko juo! :,:"
             ],
             "categoryId": ">40 vol.",
             "melody": "s\u00e4v. L. Spohr, San. Jussi Pulkkinen"
@@ -4430,7 +4391,6 @@
                 "Absinth, absinth, sieluun sy\u00f6pyy tahroja ",
                 "juomatta oon turvassa, ahhahhahhahha-hei!",
                 "",
-                ">40%",
                 "Absinth ",
                 "aina se houkuttaa ",
                 "kuitenkin kaduttaa ",
@@ -4454,9 +4414,7 @@
                 "Absinth, absinth, rakkaus ja kuolema ",
                 "koiruohoa ja anista (ohhohhohhohho-hei!) ",
                 "Absinth, absinth, sieluun sy\u00f6pyy tahroja ",
-                "juomatta oon turvassa, ahhahhahhahha-hei!",
-                "",
-                ">40%"
+                "juomatta oon turvassa, ahhahhahhahha-hei!"
             ],
             "categoryId": ">40 vol.",
             "melody": "Volga"
@@ -4483,9 +4441,7 @@
                 "Kun uhkaa DI-tutkinto, ",
                 "ja palkkat\u00f6itten ahdinko ",
                 "niin veljet silloin auttakaa, ",
-                "ja viinaa antakaa!",
-                "",
-                ">40%"
+                "ja viinaa antakaa!"
             ],
             "categoryId": ">40 vol.",
             "melody": "Tahtoisin"
@@ -4520,9 +4476,7 @@
                 "krapulaankin rohto on keksitty. ",
                 "(Ja seh\u00e4n on!)",
                 "",
-                "Snapsi, paukku, ryyppy, napsu...",
-                "",
-                ">40%"
+                "Snapsi, paukku, ryyppy, napsu..."
             ],
             "categoryId": ">40 vol.",
             "melody": "Peppi Pitk\u00e4tossu"
@@ -6599,7 +6553,7 @@
         },
         {
             "id": 7,
-            "title": "<40 vol. \u0025",
+            "title": "<40 vol.",
             "description": "Tunnelman nostattajat",
             "image": "alle40"
         },
