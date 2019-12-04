@@ -44,9 +44,10 @@ body {
   border-bottom: 2px solid #333;
 }
 
-.top-bar h2 {
+.top-bar-heading {
   margin-top: 10px;
   margin-left: 10px;
+  margin-bottom: 19.92px;
   color: #FFE600;
   text-decoration: none;
   display: inline-block;
@@ -164,28 +165,19 @@ body {
 
 .landing-page {
   height: calc(100vh - 52px);
-  background-image: url("./images/landing_page.png");
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: black;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.landing-heading {
-  color: #FFE600;
-  font-size: 2.5em;
-  margin-bottom: 40vh;
+.landing-image-container {
+  height: 85vh;
 }
 
-.landing-images {
-  display: flex;
-}
 .landing-image {
   flex: auto;
-  padding: 20px;
-  height: 25vh;
 }
 
 
@@ -241,6 +233,8 @@ body {
 
 .category-image-container {
   height: 30vh;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 
 
@@ -260,9 +254,11 @@ body {
 
 .rules {
   width: 80vw;
-  max-width: 600px;
+  max-width: 830px;
   display: inline-block;
   text-align: left;
+  line-height: 2rem;
+  font-size: 1.5rem;
 }
 
 .indent {

@@ -8,7 +8,6 @@ class TopBar extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			isLoaded: false,
 			menuVisible: false
 		};
 		this.toggleMenu = this.toggleMenu.bind(this);
@@ -30,7 +29,11 @@ class TopBar extends Component {
 		return (
 			<div className="top-bar">
 				<a href="/" className="top-bar-heading">
-					<h2>Urho Matti v3.0</h2>
+					<img
+						src={require('../images/topbar.png')}
+						alt="Urho Matti 3.0"
+						height="29px"
+					/>
 				</a>
 				<MenuButton
 					onClick={this.toggleMenuButton}
