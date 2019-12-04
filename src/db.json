@@ -4,10 +4,8 @@
             "id": 101,
             "title": "De Brevitae Vitae",
             "lyrics": [
+                "/*  Usein lauletaan vain s\u00e4keist\u00f6t 1, 4, 5 ja 7 */",
                 "",
-                "/*  Usein lauletaan vain s\u00e4keist\u00f6t 1, 4, 5  ",
-                "    ja 7  ",
-                " */",
                 ":,: Gaudeamus igitur, iuvenes dum sumus! :,: ",
                 "Post iucundam iuventutem,  ",
                 "post molestam senectutem ",
@@ -45,8 +43,7 @@
                 "",
                 ":,: Alma Mater floreat, quae nos educavit! :,: ",
                 "Caros et commiliones, dissitas in regiones ",
-                ":,: sparsos, congregavit :,:",
-                ""
+                ":,: sparsos, congregavit :,:"
             ],
             "categoryId": "Juhlavat",
             "melody": ""
@@ -67,9 +64,7 @@
                 "Oi nouse, Suomi, n\u00e4ytit maailmalle,  ",
                 "sa ett\u00e4 karkoitit orjuuden.  ",
                 "Ja ettet taipunut sa sorron alle,  ",
-                "on aamus alkanut, synnyinmaa.",
-                "",
-                ""
+                "on aamus alkanut, synnyinmaa."
             ],
             "categoryId": "Juhlavat",
             "melody": "s\u00e4v. Jean Sibelius, san. V.A. Koskenniemi"
@@ -78,7 +73,6 @@
             "id": 103,
             "title": "Maamme - V\u00e5rt land",
             "lyrics": [
-                "",
                 "Oi, maamme, Suomi, synnyinmaa.  ",
                 "Soi sana kultainen. ",
                 ":,: Ei laaksoa, ei kukkulaa, ",
@@ -105,9 +99,7 @@
                 ":,: Se, ur v\u00e5r k\u00e4rlek skall g\u00e5 opp ",
                 "ditt ljus, din glans, din fr\u00f6jd, ditt hopp  ",
                 "och h\u00f6gre klinga skall en g\u00e5ng v\u00e5r ",
-                "fosterl\u00e4ndska song. :,:",
-                "",
-                ""
+                "fosterl\u00e4ndska song. :,:"
             ],
             "categoryId": "Juhlavat",
             "melody": "S\u00e4v. Fredrik Pacius, san. Johan Ludvig Runeberg, "
@@ -137,9 +129,7 @@
                 "voitosta voittohon ",
                 "s\u00e4 viel\u00e4 meit\u00e4 viet! ",
                 "Eesp\u00e4in nyt kaikki, taisto alkakaa, ",
-                "saa sankareita viel\u00e4 n\u00e4hd\u00e4 Suomenmaa! :,:",
-                "",
-                ""
+                "saa sankareita viel\u00e4 n\u00e4hd\u00e4 Suomenmaa! :,:"
             ],
             "categoryId": "Juhlavat",
             "melody": "S\u00e4v. C. F. Kressin, san. Z. Topelius"
@@ -180,8 +170,7 @@
                 "ja tiedon puistot virtt\u00e4 vapauden soi virtt\u00e4 ",
                 "vapauden soi.",
                 "",
-                "Helky laulu...",
-                ""
+                "Helky laulu..."
             ],
             "categoryId": "Juhlavat",
             "melody": "San. V\u00e4in\u00f6 Kulo, s\u00e4v. Toivo Louko"
@@ -203,9 +192,7 @@
                 "Taas linnut laulujansa visert\u00e4\u00e4 kauniisti,  ",
                 "my\u00f6s eik\u00f6 Herran kansa Luojaansa kiitt\u00e4isi!  ",
                 "Mun sieluni, s\u00e4 liit\u00e4 my\u00f6s \u00e4\u00e4nes kuorohon  ",
-                "ja armon Herraa kiit\u00e4, kun laupias h\u00e4n on.",
-                "",
-                ""
+                "ja armon Herraa kiit\u00e4, kun laupias h\u00e4n on."
             ],
             "categoryId": "Juhlavat",
             "melody": "San. Israel Kolmodin"
@@ -238,12 +225,7 @@
                 "Sininen ja valkoinen  ",
                 "v\u00e4rit ovat vapauden.",
                 "",
-                "Sininen on taivas...",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Sininen on taivas..."
             ],
             "categoryId": "Juhlavat",
             "melody": "S\u00e4v. / San. Jukka Kuoppam\u00e4ki"
@@ -270,9 +252,7 @@
                 "En m\u00e4 ole, lapseni, lintu t\u00e4st\u00e4 maasta,  ",
                 "olen pieni veljesi, tulin taivahasta.  ",
                 "Siemenen pienoisen, jonka annoit k\u00f6yh\u00e4llen,  ",
-                "pieni sai sun veljesi enkeleitten maasta.",
-                "",
-                ""
+                "pieni sai sun veljesi enkeleitten maasta."
             ],
             "categoryId": "Joulu",
             "melody": "San. Zacharias Topelius"
@@ -306,9 +286,7 @@
                 "",
                 "Sitten leikitell\u00e4\u00e4n kuusen alla, kuusen alla,  ",
                 "kunnes p\u00e4iv\u00e4 koittaa taivahalla, taivahalla.  ",
-                "Tip-tap, tip-tap, tipe-tipe tip-tap, tip, tip, tap.",
-                "",
-                ""
+                "Tip-tap, tip-tap, tipe-tipe tip-tap, tip, tip, tap."
             ],
             "categoryId": "Joulu",
             "melody": "San. Alfred Smedberg, s\u00e4v. Vilhelm Sefve-Svensson"
@@ -342,9 +320,7 @@
                 "Sen vertaista toista en mist\u00e4\u00e4n ma saa,  ",
                 "on armain ja kallein mull\u2019 ain\u2019 Suomenmaa  ",
                 "Ja kiitosta sen laulu soi Sylvian,  ",
-                "ja soi aina lauluista sointuisimman.",
-                "",
-                ""
+                "ja soi aina lauluista sointuisimman."
             ],
             "categoryId": "Joulu",
             "melody": "S\u00e4v. Karl Collan, san. Zacharias Topelius"
@@ -366,9 +342,7 @@
                 "Nyt Jumalalle kunnia,  ",
                 "kun antoi ainoon Poikansa.  ",
                 "Siit\u2019 enkelitkin riemuiten  ",
-                "veisaavat h\u00e4lle kiitoksen.",
-                "",
-                ""
+                "veisaavat h\u00e4lle kiitoksen."
             ],
             "categoryId": "Joulu",
             "melody": "San. Martti Lutherin"
@@ -377,7 +351,6 @@
             "id": 205,
             "title": "Joulumaa",
             "lyrics": [
-                "",
                 "sinne saattaa l\u00f6yt\u00e4\u00e4,  ",
                 "vaikka paikallansa pysyy.  ",
                 "Katson taivaan t\u00e4hti\u00e4 ja niiden helminauhaa  ",
@@ -409,9 +382,7 @@
                 "",
                 "pelkk\u00e4\u00e4 toiveunta,  ",
                 "",
-                "Eik\u00e4 sinne matka silloin kovin kauan kest\u00e4,  ",
-                "",
-                ""
+                "Eik\u00e4 sinne matka silloin kovin kauan kest\u00e4,"
             ],
             "categoryId": "Joulu",
             "melody": "San. Juha Vainio, s\u00e4v. Katri-Helena Kalaoja"
@@ -420,8 +391,6 @@
             "id": 206,
             "title": "Jouluy\u00f6, juhlay\u00f6",
             "lyrics": [
-                "",
-                "",
                 "P\u00e4\u00e4ttynyt kaikk\u2019 on ty\u00f6,  ",
                 "kaks\u2019 vain valveill\u2019 on puolisoa,  ",
                 "lapsen herttaisen nukkuessa, ",
@@ -437,13 +406,7 @@
                 "T\u00e4ytetty nyt on ty\u00f6  ",
                 "Olkoon kunnia Jumalalle  ",
                 "Maassa rauha my\u00f6s ihmisille ",
-                ":,: Olkoon suosio suur :,:",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+                ":,: Olkoon suosio suur :,:"
             ],
             "categoryId": "Joulu",
             "melody": "San. Josef Mohr, s\u00e4v. F. X. Gruber,  "
@@ -460,8 +423,7 @@
                 "Ja sen olisi kyll\u00e4 h\u00e4n poiminut  ",
                 "Ja sen painanut povelleen, ",
                 ":,: Mutta k\u00f6yh\u00e4n\u00e4 ei ole tohtinut, ",
-                "Vaan on j\u00e4tt\u00e4nyt paikoilleen. :,:",
-                ""
+                "Vaan on j\u00e4tt\u00e4nyt paikoilleen. :,:"
             ],
             "categoryId": "<3",
             "melody": "Trad."
@@ -482,9 +444,7 @@
                 "",
                 ":,: Vaan min\u00e4 olen kuin taivaan lintu,  ",
                 "ei ole mulla majaa. :,: ",
-                ":,: Ei ole mulla yst\u00e4v\u00e4\u00e4, ei ole lohduttajaa. :,:",
-                "",
-                ""
+                ":,: Ei ole mulla yst\u00e4v\u00e4\u00e4, ei ole lohduttajaa. :,:"
             ],
             "categoryId": "<3",
             "melody": "Trad."
@@ -516,11 +476,7 @@
                 "Jos oon mielt\u00e4s pahoittanna,  ",
                 "jollakulla tavalla,  ",
                 "pyyd\u00e4n anteeks\u2019 t\u00e4ll\u00e4 kertaa,  ",
-                "tapojain en paranna.",
-                "",
-                "",
-                "",
-                ""
+                "tapojain en paranna."
             ],
             "categoryId": "<3",
             "melody": "Trad."
@@ -555,9 +511,7 @@
                 "",
                 ":,: Kun min\u00e4 vien sen markkinoille, ",
                 "niin hevosetkin nauraa. :,: ",
-                ":,: Hei luulia illallaa, hevosetkin nauraa. :,:",
-                "",
-                ""
+                ":,: Hei luulia illallaa, hevosetkin nauraa. :,:"
             ],
             "categoryId": "<3",
             "melody": "Trad."
@@ -583,9 +537,7 @@
                 "Ja jos kauas sun luotasi joutunen  ",
                 "kuvas seuraa mun matkallain.",
                 "",
-                "Ylin riemuni oot mit\u00e4 toivoisin...",
-                "",
-                ""
+                "Ylin riemuni oot mit\u00e4 toivoisin..."
             ],
             "categoryId": "<3",
             "melody": "Trad."
@@ -638,9 +590,7 @@
                 "Ja me itkimme haikeasti  ",
                 "ja horjuimme satamaan.  ",
                 "Ah, Kuuban helmi, sua  ",
-                "en unhoita milloinkaan!",
-                "",
-                ""
+                "en unhoita milloinkaan!"
             ],
             "categoryId": "<3",
             "melody": "Trad."
@@ -664,12 +614,7 @@
                 "Vi ska f\u00f6rf\u00f6ra dom,  ",
                 "vi ska f\u00f6rg\u00f6ra dom,  ",
                 "s\u00e5 att de kryper hem  ",
-                "fr\u00e5n oss i morgon kv\u00e4ll.",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "fr\u00e5n oss i morgon kv\u00e4ll."
             ],
             "categoryId": "<3",
             "melody": "Those were the days"
@@ -678,7 +623,6 @@
             "id": 401,
             "title": "Tunnelbana pojkar",
             "lyrics": [
-                "",
                 "Olle och Kjell pratar i tunnelbana:  ",
                 "\u201cMin mamma g\u00e5r p\u00e5 gynekolog idag\u201d  ",
                 "s\u00e4ger Olle Wohohoh  ",
@@ -696,8 +640,7 @@
                 "Damen g\u00e5r r\u00f6d i hons face -  ",
                 "Och igen pojkarna skrattar",
                 "",
-                "Olle och Kjell \u00e4r gangsterna...",
-                ""
+                "Olle och Kjell \u00e4r gangsterna..."
             ],
             "categoryId": "Rock",
             "melody": ""
@@ -706,7 +649,6 @@
             "id": 402,
             "title": "Baarik\u00e4rp\u00e4nen",
             "lyrics": [
-                "",
                 "Mua puri baarik\u00e4rp\u00e4nen mut miksi suremaan?  ",
                 "Jo kauan sitten l\u00e4\u00e4kkeen l\u00f6ysin  ",
                 "siihen puremaan.  ",
@@ -741,9 +683,7 @@
                 "Vaan eip\u00e4 taida kannattaa nenillens\u00e4 hyppi\u00e4,  ",
                 "On multa liian helppoa n\u00e4et siivet nyppi\u00e4.",
                 "",
-                ":,: Siis ryypp\u00e4\u00e4m\u00e4\u00e4n ryypp\u00e4\u00e4m\u00e4\u00e4n... :,: ",
-                "",
-                ""
+                ":,: Siis ryypp\u00e4\u00e4m\u00e4\u00e4n ryypp\u00e4\u00e4m\u00e4\u00e4n... :,: "
             ],
             "categoryId": "Rock",
             "melody": ""
@@ -752,7 +692,6 @@
             "id": 403,
             "title": "Juodaan viinaa",
             "lyrics": [
-                "",
                 "Kolmen t\u00e4hden jallupullon juotuaan  ",
                 "kaksi miest\u00e4 tutkii muistikirjojaan.  ",
                 "Toinen tuskailee kun sivut t\u00e4ynn\u00e4 on,  ",
@@ -781,9 +720,7 @@
                 "Yksi uinut on kuin kalat vedess\u00e4\u00e4n  ",
                 "ja toinen naapureitansakin aristaa.",
                 "",
-                ":,: Juodaan viinaa... :,:",
-                "",
-                ""
+                ":,: Juodaan viinaa... :,:"
             ],
             "categoryId": "Rock",
             "melody": ""
@@ -792,7 +729,6 @@
             "id": 405,
             "title": "Karrelle palanut enkeli",
             "lyrics": [
-                "",
                 "Rai, rai rai rai, rai!  ",
                 "Rai, rai rai rai, rai!  ",
                 "Rai, rai rai rai, rai!  ",
@@ -828,8 +764,7 @@
                 "Uhri olen itsekin,  ",
                 "talven routa tappaa pihatontutkin.",
                 "",
-                "Rai, rai rai rai, rai...",
-                ""
+                "Rai, rai rai rai, rai..."
             ],
             "categoryId": "Rock",
             "melody": ""
@@ -838,7 +773,6 @@
             "id": 406,
             "title": "Ei tippa tapa",
             "lyrics": [
-                "",
                 "Kaikki alkoi siit\u00e4 kun m\u00e4 lopputilin sain,  ",
                 "sitten juhlan kunniaksi t\u00e4yden lastin hain.  ",
                 "Eik\u00e4 siin\u00e4 turhaan liioin kainosteltu lain,  ",
@@ -865,8 +799,7 @@
                 "Joku toinen kuitenkin sen ryypp\u00e4\u00e4 aikanaan. ",
                 "Juodaan kaikki nyt ja juokoon toiset omiaan.",
                 "",
-                "Ei tippa tapa...",
-                ""
+                "Ei tippa tapa..."
             ],
             "categoryId": "Rock",
             "melody": ""
@@ -875,7 +808,6 @@
             "id": 407,
             "title": "Murheellisten laulujen maa",
             "lyrics": [
-                "",
                 "Syytt\u00f6m\u00e4n\u00e4 syntym\u00e4\u00e4n sattui h\u00e4n  ",
                 "t\u00e4h\u00e4n maahan pohjoiseen ja kylm\u00e4\u00e4n,  ",
                 "jossa jo esi-is\u00e4t  ",
@@ -916,12 +848,7 @@
                 "ei mittaa j\u00e4rki, eik\u00e4 K\u00e4rki m\u00e4\u00e4r\u00e4\u00e4,  ",
                 "jonka lauluissa hukkuvat el\u00e4m\u00e4n valttikortit  ",
                 "ja kiinni pysyv\u00e4t taivaan portit.  ",
-                "Einari Ep\u00e4toivosta ne kertovat.",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Einari Ep\u00e4toivosta ne kertovat."
             ],
             "categoryId": "Rock",
             "melody": ""
@@ -953,9 +880,7 @@
                 "Ja kun Integer Vitae meille,  ",
                 "kerran viimeisen lauletaan. ",
                 ":,: Silloin ikuisen teekkarin haudalle ",
-                "oluttynn\u00f6ri nostetaan. :,:",
-                "",
-                ""
+                "oluttynn\u00f6ri nostetaan. :,:"
             ],
             "categoryId": "Tupsulaulut",
             "melody": "Kun min\u00e4 kotoani l\u00e4ksin"
@@ -982,9 +907,7 @@
                 "Baarin luo nyt riemuiten riensi sankarimme. ",
                 "Kohta l\u00e4htee liikkeelle juhlat teekkarimme. ",
                 "Olusen pienoisen, kohta juo h\u00e4n riemuiten.  ",
-                "T\u00e4st\u00e4 l\u00e4htee liikkeelle juhlat teekkarimme.",
-                "",
-                ""
+                "T\u00e4st\u00e4 l\u00e4htee liikkeelle juhlat teekkarimme."
             ],
             "categoryId": "Tupsulaulut",
             "melody": "Varpunen jouluaamuna"
@@ -1027,8 +950,7 @@
                 "Niin l\u00e4hti kaunis humanisti, mutta viel\u00e4kin,  ",
                 "kun insin\u00f6\u00f6ri \u00f6isin integroi,  ",
                 "h\u00e4n miettii miksi toinen t\u00e4\u00e4ll\u00e4 lukutoukka on  ",
-                "ja toinen nablaa rakastaa.",
-                ""
+                "ja toinen nablaa rakastaa."
             ],
             "categoryId": "Tupsulaulut",
             "melody": "P\u00e4iv\u00e4ns\u00e4de ja mennink\u00e4inen"
@@ -1041,8 +963,7 @@
                 "Aina siell\u00e4 k\u00e4veleepi joku vanha ihminen.  ",
                 "H\u00e4nt\u00e4 pannaan toiseen korvaan,  ",
                 "toinen k\u00e4rs\u00e4\u00e4 k\u00e4ytt\u00e4\u00e4.  ",
-                "T\u00e4m\u00e4 uusi telefooni kaikki toiveet t\u00e4ytt\u00e4\u00e4.",
-                ""
+                "T\u00e4m\u00e4 uusi telefooni kaikki toiveet t\u00e4ytt\u00e4\u00e4."
             ],
             "categoryId": "Tupsulaulut",
             "melody": "Telefooni Afrikassa"
@@ -1051,13 +972,10 @@
             "id": 505,
             "title": "S\u00e4hk\u00f6sanoma",
             "lyrics": [
-                "",
                 "Amppeeri, montt\u00f6\u00f6ri, transformaattori,  ",
                 "kilowatti, voltti ja generaattori.  ",
                 "Oikosulku ja proppu.  ",
-                "T\u00e4h\u00e4n minun lauluni loppu.",
-                "",
-                ""
+                "T\u00e4h\u00e4n minun lauluni loppu."
             ],
             "categoryId": "Tupsulaulut",
             "melody": ""
@@ -1094,9 +1012,7 @@
                 ":,: Min\u00e4 istun saunan lauteilla, ",
                 "sill\u00e4 olen alasti. :,: ",
                 ":,: Ja enk\u00e4 muuten t\u00e4ss\u00e4 saunoisi, ",
-                "ellen alasti olisi. :,:",
-                "",
-                ""
+                "ellen alasti olisi. :,:"
             ],
             "categoryId": "Tupsulaulut",
             "melody": "Kansalaislaulu"
@@ -1105,7 +1021,6 @@
             "id": 507,
             "title": "Servin Maijan m\u00f6kki",
             "lyrics": [
-                "",
                 ":,: Servin Maijan m\u00f6kki se seisoo  ",
                 "korkealla m\u00e4ell\u00e4, :,: ",
                 "herrat sinne ajaa hevosella,  ",
@@ -1128,9 +1043,7 @@
                 "olihan sill\u00e4 se pannukin,  ",
                 "olihan sill\u00e4 se pannukin,  ",
                 "mutta se on kanissa,  ",
-                "mutta se on kanissa. :,: ",
-                "",
-                ""
+                "mutta se on kanissa. :,: "
             ],
             "categoryId": "Tupsulaulut",
             "melody": ""
@@ -1179,8 +1092,7 @@
                 "\u201dSit\u00e4 viinaa lis\u00e4\u00e4!\u201d  ",
                 "M\u00e4 Lynin vessaan k\u00e4perryn  ",
                 "\u201dPoke, salli y\u00f6ksi j\u00e4\u00e4n\u201d  ",
-                "mut kun aamu on, m\u00e4 kotoani her\u00e4\u00e4n. :,:",
-                ""
+                "mut kun aamu on, m\u00e4 kotoani her\u00e4\u00e4n. :,:"
             ],
             "categoryId": "Tupsulaulut",
             "melody": "Viidestoista y\u00f6"
@@ -1227,9 +1139,7 @@
                 "Me ollaan teekkareita el\u00e4m\u00e4n  ",
                 "ihan jokainen.",
                 "",
-                "PARHAMPPI REE\u00c4NNAAHOMMII KU O",
-                "",
-                ""
+                "PARHAMPPI REE\u00c4NNAAHOMMII KU O"
             ],
             "categoryId": "Tupsulaulut",
             "melody": "Sankarit"
@@ -1275,12 +1185,7 @@
                 "on siin\u00e4 vaahdot aivan katossa ",
                 "Mut n\u00e4in kun pumpataan ja vaahto laskee ",
                 "vaan ",
-                "p\u00e4\u00e4st\u00e4\u00e4n taas fermentoimaan",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "p\u00e4\u00e4st\u00e4\u00e4n taas fermentoimaan"
             ],
             "categoryId": "Tupsulaulut",
             "melody": "Pumppulaulu"
@@ -1289,7 +1194,6 @@
             "id": 601,
             "title": "Helan g\u00e5r",
             "lyrics": [
-                "",
                 "  /* Lauletaan soolona */",
                 "En liten f\u00e5gel satt en g\u00e5ng  ",
                 "Och sj\u00f6ng I furuskog.  ",
@@ -1306,9 +1210,7 @@
                 "Och den som inte Helan tar,  ",
                 "Han ej heller Halvan f\u00e5r.  ",
                 "Helan g\u00e5r!  ",
-                "Sjung hopp falderallan lej!",
-                "",
-                ""
+                "Sjung hopp falderallan lej!"
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -1338,9 +1240,7 @@
                 "Saatuansa spriit\u00e4,  ",
                 "virkistyi h\u00e4n siit\u00e4.  ",
                 "Kohottaen lasiaan,  ",
-                "virkkoi: \u201cveljet - asiaan\u201d. ",
-                "",
-                ""
+                "virkkoi: \u201cveljet - asiaan\u201d. "
             ],
             "categoryId": "Sitsit",
             "melody": "Piiri pieni py\u00f6rii"
@@ -1356,8 +1256,7 @@
                 "Oh, handsome in the Hell and tar,  ",
                 "hand, Ay Hell are half and four.  ",
                 "Hell and gore,  ",
-                "Shun gop, Father Allan lay! ",
-                ""
+                "Shun gop, Father Allan lay! "
             ],
             "categoryId": "Sitsit",
             "melody": "Helan g\u00e5r"
@@ -1373,9 +1272,7 @@
                 "Ja ensimm\u00e4ist' ei purra saa,  ",
                 "kukaan t\u00e4\u00e4l' ei surra saa.  ",
                 "Pohjaan siis  ",
-                "t\u00e4\u00e4 malja juodahan!",
-                "",
-                ""
+                "t\u00e4\u00e4 malja juodahan!"
             ],
             "categoryId": "Sitsit",
             "melody": "Helan g\u00e5r"
@@ -1384,7 +1281,6 @@
             "id": 605,
             "title": "Punschen kommer",
             "lyrics": [
-                "",
                 "  /* Kylm\u00e4 */",
                 "Punschen kommer, punschen kommer,  ",
                 "ljuv och sval  ",
@@ -1403,9 +1299,7 @@
                 "Sk\u00e5l f\u00f6r alla minnen!  ",
                 "Dem vi snart ej ha,  ",
                 "d\u00e5 ett par glas simmig punsch  ",
-                "vi hunnit ta!",
-                "",
-                ""
+                "vi hunnit ta!"
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -1414,7 +1308,6 @@
             "id": 606,
             "title": "Punssi saapuu",
             "lyrics": [
-                "",
                 "  /* Kylm\u00e4 */",
                 "Punssi saapuu, punssi saapuu, vilpoinen,  ",
                 "lasit kiilt\u00e4\u00e4, \u00e4\u00e4neet kiit\u00e4\u00e4 kilvaten.  ",
@@ -1430,9 +1323,7 @@
                 "Punssi saapuu, punssi saapuu, l\u00e4mp\u00f6inen,  ",
                 "Taju haipuu, suoleen taipuu, pisarainen.  ",
                 "Malja muistoillemme, joit\u2019 vain muutama  ",
-                "j\u00e4ljell\u2019 on, kun nautittu on lasi muutama.",
-                "",
-                ""
+                "j\u00e4ljell\u2019 on, kun nautittu on lasi muutama."
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -1464,9 +1355,7 @@
                 "Sk\u00e5la n\u00e4r det knallar!  ",
                 "Pang, d\u00e4r gick helan,  ",
                 "pang, d\u00e4r gick halvan,  ",
-                "tersen och kvarten och kvinten p\u00e5.",
-                "",
-                ""
+                "tersen och kvarten och kvinten p\u00e5."
             ],
             "categoryId": "Sitsit",
             "melody": "Karjalan poikia, Leukojen v\u00e4lliin"
@@ -1483,8 +1372,7 @@
                 "Br\u00e4nnvin, vatten,  ",
                 "smakar skit som katten!  ",
                 "Br\u00e4nnvin helt r\u00e5t  ",
-                "smakar j\u00e4vligt gott!",
-                ""
+                "smakar j\u00e4vligt gott!"
             ],
             "categoryId": "Sitsit",
             "melody": "Jeepers creepers"
@@ -1523,9 +1411,7 @@
                 "voi Lappeenranta, Turku! ...",
                 "",
                 "Voi saatana, voi perkele,  ",
-                "voi jumalauta vittu! ...",
-                "",
-                ""
+                "voi jumalauta vittu! ..."
             ],
             "categoryId": "Sitsit",
             "melody": "O tannebaum"
@@ -1553,9 +1439,7 @@
                 "absolutely fucking hammered. :,: ",
                 ":,: Tomorrow we shall have,  ",
                 "tomorrow we shall have ",
-                "hangover beyond reason. :,:",
-                "",
-                ""
+                "hangover beyond reason. :,:"
             ],
             "categoryId": "Sitsit",
             "melody": "Joulu on taas"
@@ -1592,9 +1476,7 @@
                 "Ryyppi kun mennyt on kurkusta siss\u00e4\u00e4,  ",
                 "siell\u00e4 se istuu ja pyyt\u00e4\u00e4 liss\u00e4\u00e4. ",
                 "",
-                "Leukojen v\u00e4lliin...",
-                "",
-                ""
+                "Leukojen v\u00e4lliin..."
             ],
             "categoryId": "Sitsit",
             "melody": "Karjalan poikia, Sibboborna"
@@ -1622,9 +1504,7 @@
                 "",
                 ":,: Mull\u2019 on r\u00e4k\u00e4 poskella  ",
                 "sek\u00e4 turpa t\u00e4ynn\u00e4. :,: ",
-                ":,: Hei luulia illalla sek\u00e4 turpa t\u00e4ynn\u00e4. :,: ",
-                "",
-                ""
+                ":,: Hei luulia illalla sek\u00e4 turpa t\u00e4ynn\u00e4. :,: "
             ],
             "categoryId": "Sitsit",
             "melody": "Minun kultani kaunis on"
@@ -1640,8 +1520,7 @@
                 "",
                 "Liss\u00e4\u00e4 viinaa ...  ",
                 "Konjakki ois poikaa ...  ",
-                "Kaljakin kelpaa .. ",
-                ""
+                "Kaljakin kelpaa .. "
             ],
             "categoryId": "Sitsit",
             "melody": "Minun kultani kaunis on"
@@ -1653,9 +1532,7 @@
                 "\u00c4lk\u00e4\u00e4 juoko vett\u00e4, siit\u00e4 seuraa ett\u00e4;  ",
                 "vesi j\u00e4\u00e4den puolitiehen  ",
                 "viekin sitten koko miehen.  ",
-                "Juokaa paloviinaa, niin ei jano piinaa.  ",
-                "",
-                ""
+                "Juokaa paloviinaa, niin ei jano piinaa.  "
             ],
             "categoryId": "Sitsit",
             "melody": "Rati riti ralla"
@@ -1674,8 +1551,7 @@
                 "siten teekkariaikoja muistaa.",
                 "",
                 ":,: Yhteinen juomalaulumme luistaa ",
-                "juhlamieli on parhaimmillaan. :,:",
-                ""
+                "juhlamieli on parhaimmillaan. :,:"
             ],
             "categoryId": "Sitsit",
             "melody": "Figaron h\u00e4\u00e4t"
@@ -1686,8 +1562,7 @@
             "lyrics": [
                 "Lis\u00e4\u00e4 viinaa - HUH!  ",
                 "Silm\u00e4t liikkuu - HUH!  ",
-                "Lis\u00e4\u00e4 viinaa, silm\u00e4t liikkuu - HUH!",
-                ""
+                "Lis\u00e4\u00e4 viinaa, silm\u00e4t liikkuu - HUH!"
             ],
             "categoryId": "Sitsit",
             "melody": "Volgan lautturien laulu"
@@ -1698,9 +1573,7 @@
             "lyrics": [
                 "Koskenkorvaa - HUH!  ",
                 "Koskenkorvaa - HUH!  ",
-                "Koo-oo-ooskenkoo-oo-oorvaa - HUH!",
-                "",
-                ""
+                "Koo-oo-ooskenkoo-oo-oorvaa - HUH!"
             ],
             "categoryId": "Sitsit",
             "melody": "Volgan lautturien laulu"
@@ -1727,9 +1600,7 @@
                 "Lis\u00e4\u00e4 kansaa Suomeen,  ",
                 "lis\u00e4\u00e4 Suomea p\u00e4\u00e4lle maan,  ",
                 "lis\u00e4\u00e4 maata Suur-Suomelle,  ",
-                "marssitaan, marssitaan, Karjalaan, Karjalaan! ",
-                "",
-                ""
+                "marssitaan, marssitaan, Karjalaan, Karjalaan! "
             ],
             "categoryId": "Sitsit",
             "melody": "Kansainv\u00e4linen"
@@ -1738,7 +1609,6 @@
             "id": 619,
             "title": "Ko-ko-ko-koskenkorvaa",
             "lyrics": [
-                "",
                 "Ko-ko-ko-kosken \u2013 ko-ko-ko-korvaa,  ",
                 "siit\u00e4 aina kunnon r\u00e4-k\u00e4-k\u00e4-k\u00e4nnit saa.  ",
                 "Ko-ko-ko-kosken \u2013 ko-ko-ko-korvaa,  ",
@@ -1792,9 +1662,7 @@
                 "My-my-my-mylly - si-si-si-silta,  ",
                 "siit\u00e4 aina kunnon riippusillan,  ",
                 "aina kunnon riippusillan,  ",
-                "aina kunnon riippusillan saa!",
-                "",
-                ""
+                "aina kunnon riippusillan saa!"
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -1809,8 +1677,7 @@
                 ":,: Ei korvia, ei korvia, ",
                 "ei h\u00e4nt\u00e4\u00e4 laisinkaan. :,:",
                 "",
-                "Kvak-kvak-kvak-kvak...",
-                ""
+                "Kvak-kvak-kvak-kvak..."
             ],
             "categoryId": "Sitsit",
             "melody": "Pienet sammakot"
@@ -1819,7 +1686,6 @@
             "id": 621,
             "title": "Nytp\u00e4 tahdon olla m\u00e4",
             "lyrics": [
-                "",
                 "Nytp\u00e4 tahdon olla m\u00e4  ",
                 "kylm\u00e4n kaljan yst\u00e4v\u00e4.  ",
                 "T\u00e4ss\u00e4 paikassa sit\u00e4 tuodaan,  ",
@@ -1832,9 +1698,7 @@
                 "tilaa kalaa taikka h\u00e4rk\u00e4\u00e4,  ",
                 "v\u00e4liin Koskenkorvaa m\u00e4rk\u00e4\u00e4.  ",
                 "Ruokahetki verraton,  ",
-                "kera Koskenkorvan on.",
-                "",
-                ""
+                "kera Koskenkorvan on."
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -1843,7 +1707,6 @@
             "id": 622,
             "title": "T\u00e4m\u00e4n talon onneksi",
             "lyrics": [
-                "",
                 ":,: Ja me juomme t\u00e4m\u00e4n talon onneksi, ",
                 "kippis, kippis. :,: ",
                 ":,: T\u00e4\u00e4ll\u00e4 oleville, poissa oleville ",
@@ -1860,8 +1723,7 @@
                 "kippis, kippis. :,: ",
                 ":,: Kaiken \u00f6ljynkin, koko voitelun ",
                 "ja helavita akkumalaattorin,  ",
-                "kippis, kippis. :,: ",
-                ""
+                "kippis, kippis. :,: "
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -1870,14 +1732,11 @@
             "id": 623,
             "title": "Sis\u00e4\u00e4n!",
             "lyrics": [
-                "",
                 "  /* Kop, kop, kop */",
                 "Sis\u00e4\u00e4n!",
                 "",
                 "  /* Kop, kop, kop */",
-                "Seuraava!",
-                "",
-                ""
+                "Seuraava!"
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -1927,8 +1786,7 @@
                 "Kun baarissa viimein on tarjoilu loppu,  ",
                 "on p\u00e4\u00e4ss\u00e4kin sammunut viimeinen proppu.",
                 "",
-                "Ja juo ja laulaa ...",
-                ""
+                "Ja juo ja laulaa ..."
             ],
             "categoryId": "Sitsit",
             "melody": "juomasta"
@@ -1938,9 +1796,7 @@
             "title": "Runebergin juomalaulu",
             "lyrics": [
                 "Jo l\u00e4hti pois pakenemaan -  ",
-                "Hyv\u00e4sti varjoinen",
-                "",
-                ""
+                "Hyv\u00e4sti varjoinen"
             ],
             "categoryId": "Sitsit",
             "melody": "L\u00e4hteell\u00e4"
@@ -1978,8 +1834,7 @@
                 "helvetin pieni\u00e4 k\u00e4\u00e4rmeit\u00e4.  ",
                 "Kobra vanha valkoinen,  ",
                 "nousee pystyyn huojuen -  ",
-                "ja taas on pieni\u00e4 k\u00e4\u00e4rmeit\u00e4.",
-                ""
+                "ja taas on pieni\u00e4 k\u00e4\u00e4rmeit\u00e4."
             ],
             "categoryId": "Sitsit",
             "melody": "Kuningaskobra"
@@ -1988,7 +1843,6 @@
             "id": 627,
             "title": "Juomalaulu ei-laulajille",
             "lyrics": [
-                "",
                 "  /* Pitk\u00e4 versio */ ",
                 "Ei ny  ",
                 "vaan ny!",
@@ -1999,8 +1853,7 @@
                 "  /* Lyhyt versio */ ",
                 "NY!",
                 "",
-                "NU!",
-                ""
+                "NU!"
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -2012,9 +1865,7 @@
                 "Jaloviina yhden t\u00e4hden,  ",
                 "lis\u00e4\u00e4 huudetaan!  ",
                 "Kurkkuun asti, koko lasti,  ",
-                "kerralla kaadetaan.",
-                "",
-                ""
+                "kerralla kaadetaan."
             ],
             "categoryId": "Sitsit",
             "melody": "Dallas theme"
@@ -2046,9 +1897,7 @@
                 "Laiha porsas lattialla,  ",
                 "n\u00e4ykkii s\u00e4\u00e4rt\u00e4s kiusallaan. ",
                 ":,: Tunti ryypp\u00e4\u00e4 taukoomatta, ",
-                "huomaat prinssin polvillaan. :,:",
-                "",
-                ""
+                "huomaat prinssin polvillaan. :,:"
             ],
             "categoryId": "Sitsit",
             "melody": "Stenka Rasin"
@@ -2075,9 +1924,7 @@
                 "Vita m\u00f6ss g\u00e5r upp i taket,  ",
                 "r\u00e5ma hest och ramla ned, ",
                 ":,: men ni skall inte vara r\u00e4dda, ",
-                "tag en sup och allt g\u00e5r v\u00e4l. :,:",
-                "",
-                ""
+                "tag en sup och allt g\u00e5r v\u00e4l. :,:"
             ],
             "categoryId": "Sitsit",
             "melody": "Stenka Rasin"
@@ -2111,9 +1958,7 @@
                 "\u201cSkoolata tahdomme kaikille veikoille,  ",
                 "snapsi k\u00e4y kaikille, mutta ei heikoille.  ",
                 "Pidet\u00e4\u00e4n hoppua, laulu saa loppua,  ",
-                "nostakaa malja kun juhla on!\u201d",
-                "",
-                ""
+                "nostakaa malja kun juhla on!\u201d"
             ],
             "categoryId": "Sitsit",
             "melody": "Nisse-polkka"
@@ -2127,8 +1972,7 @@
                 "Ettei hampaat ravistuisi,  ",
                 "kyytipoika hermostuisi.  ",
                 "Niin me pienen ik\u00e4mme,  ",
-                "ahkerasti ryypp\u00e4\u00e4mme.",
-                ""
+                "ahkerasti ryypp\u00e4\u00e4mme."
             ],
             "categoryId": "Sitsit",
             "melody": "Tuiki, tuiki t\u00e4ht\u00f6nen"
@@ -2137,7 +1981,6 @@
             "id": 633,
             "title": "Takki pois",
             "lyrics": [
-                "",
                 "Hei takki poies kiskaiskaamme,  ",
                 "on Polin poikain tapa t\u00e4\u00e4. ",
                 ":,: Ja sitten laulu laulakaamme, ",
@@ -2146,9 +1989,7 @@
                 "Me emme laulamasta lakkaa,  ",
                 "ennen kuin aamu sarastaa. ",
                 ":,: Ei t\u00e4\u00e4lt\u00e4 kesken poistutakkaan, ",
-                "t\u00e4\u00e4ll\u2019 juodaan kautta Pohjanmaan. :,:",
-                "",
-                ""
+                "t\u00e4\u00e4ll\u2019 juodaan kautta Pohjanmaan. :,:"
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -2182,9 +2023,7 @@
                 "Sukukunnan turman tuopi tuollainen,  ",
                 "kulttuurin turmion.",
                 "",
-                "Hurraa, me nuoret...",
-                "",
-                ""
+                "Hurraa, me nuoret..."
             ],
             "categoryId": "Sitsit",
             "melody": "Kapteeni katsoi horisonttiin"
@@ -2227,8 +2066,7 @@
                 "Mut v\u00e4isty sitten, s\u00e4 kalvas haamu,  ",
                 "n\u00e4\u00e4t, y\u00f6n jo voittavi uusi aamu.  ",
                 "Oi, p\u00e4iv\u00e4n kultainen kehr\u00e4, terve!  ",
-                "Ma sulle laulan, sun maljas\u2019 juon. ",
-                ""
+                "Ma sulle laulan, sun maljas\u2019 juon. "
             ],
             "categoryId": "Sitsit",
             "melody": "san. Hj. Nortamo"
@@ -2279,9 +2117,7 @@
                 "Viimeinkin uhrataan Cthulhulle p\u00e4it\u00e4, ",
                 "maailmaan palannut muinainen on. ",
                 "Lounaaksi sy\u00f6tyj\u00e4 p\u00f6lkkyp\u00e4it\u00e4 ",
-                "mies sek\u00e4 hylje kumpikin on.",
-                "",
-                ""
+                "mies sek\u00e4 hylje kumpikin on."
             ],
             "categoryId": "Sitsit",
             "melody": "Vanhojapoikia Viiksekk\u00e4it\u00e4"
@@ -2331,8 +2167,7 @@
                 "ylioppilaslakkimme j\u00e4ljelle j\u00e4\u00e4 ",
                 "\u2013 hiven lyyrassa kiilt\u00e4\u00e4 kultaa. ",
                 "N\u00e4in teinit, toverit, eli ja joi ",
-                "ja el\u00e4m\u00e4n kirjaa nakersi koi.",
-                ""
+                "ja el\u00e4m\u00e4n kirjaa nakersi koi."
             ],
             "categoryId": "Sitsit",
             "melody": "s\u00e4v. M. Lintulahti, san. U. Kupiainen"
@@ -2341,7 +2176,6 @@
             "id": 638,
             "title": "Mikontalo-hymni",
             "lyrics": [
-                "",
                 "Oi suuri ja mahtava Mikontalomme,  ",
                 "sun synnytti Hervanta etel\u00e4inen.  ",
                 "Sun luonut on s\u00e4\u00e4ti\u00f6n korkehin johto,  ",
@@ -2367,8 +2201,7 @@
                 "On koulu l\u00e4hell\u2019, ja verkkokin l\u00f6ytyy,  ",
                 "vaikk\u2019 parvekkeilla t\u00e4\u00e4ll\u2019 ei juhlitakaan. ",
                 "",
-                "Oi, uljas asuntolamme\u2026",
-                ""
+                "Oi, uljas asuntolamme\u2026"
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -2406,9 +2239,7 @@
                 "Min\u00e4 olen Anneli J\u00e4\u00e4tteenm\u00e4ki,  ",
                 "p\u00f6yt\u00e4kirjan pilkut mun korvani n\u00e4ki.  ",
                 "Valehtele koskaan en,  ",
-                "siks\u2019 nen\u00e4kin on lyhk\u00e4inen!",
-                "",
-                ""
+                "siks\u2019 nen\u00e4kin on lyhk\u00e4inen!"
             ],
             "categoryId": "Sitsit",
             "melody": "Lambeth walk"
@@ -2440,9 +2271,7 @@
                 "Tentti taas kutsuu, otan silt\u00e4kin selk\u00e4\u00e4n ",
                 "Vappu \u2013 Tosiaan Proffaa m\u00e4 pelk\u00e4\u00e4n\u2026",
                 "",
-                "Sin\u00e4 tarjosit kaksi shottia...",
-                "",
-                ""
+                "Sin\u00e4 tarjosit kaksi shottia..."
             ],
             "categoryId": "Sitsit",
             "melody": "Kev\u00e4t"
@@ -2486,8 +2315,7 @@
                 "Sunnuntaina sades\u00e4\u00e4ss\u00e4 ",
                 "pelk\u00e4t komissaarit Vartsalla.",
                 "",
-                ":,: Se p\u00e4iv\u00e4 oli iloinen... :,:",
-                ""
+                ":,: Se p\u00e4iv\u00e4 oli iloinen... :,:"
             ],
             "categoryId": "Sitsit",
             "melody": "Viikonp\u00e4iv\u00e4t"
@@ -2496,7 +2324,6 @@
             "id": 642,
             "title": "Saari",
             "lyrics": [
-                "",
                 "Valtameress\u00e4 on saari, ",
                 "pinta-alaltaan vain aari. ",
                 "Saaren keskell\u00e4 on baari, ",
@@ -2510,9 +2337,7 @@
                 "Aivan k\u00e4nniss\u00e4 on vaari, ",
                 "hiljaa t\u00e4yttyy lavuaari. ",
                 "Yl\u00f6s tulee kaviaari, ",
-                "eik\u00e4 muuta tulekaan.",
-                "",
-                ""
+                "eik\u00e4 muuta tulekaan."
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -2544,9 +2369,7 @@
                 "Ennenkuin min\u00e4 lauluni lopetan, ",
                 "hurraa, hurraa hurrataan vaan, ",
                 ":,: niin m\u00e4 tytt\u00f6nikin juomahan opetan, ",
-                "ja me onnelliset oomme vaan. :,:",
-                "",
-                ""
+                "ja me onnelliset oomme vaan. :,:"
             ],
             "categoryId": "Sitsit",
             "melody": "Trad."
@@ -2555,7 +2378,6 @@
             "id": 644,
             "title": "Rullaati rullaa",
             "lyrics": [
-                "",
                 "Murheisna miesn\u00e4 jos polkusi kuljet, ",
                 "konstin m\u00e4 tied\u00e4n mi auttavi tuo: ",
                 "s\u00e4 ennenkuin kuolossa silm\u00e4si suljet, ",
@@ -2583,9 +2405,7 @@
                 "Vasemmall\u2019, oikeall\u2019 vinossa n\u00e4yt \u2013 ",
                 "nyth\u00e4n jo huomaat, ett\u2019 pieness\u00e4 k\u00e4yt \u2013",
                 "",
-                "Hei, rullaati ...",
-                "",
-                ""
+                "Hei, rullaati ..."
             ],
             "categoryId": "Sitsit",
             "melody": ""
@@ -2621,9 +2441,7 @@
                 "Tyls\u00e4ksi muuttuu, ken hulluja valvoo, ",
                 "takaisin kapakkaan matkani k\u00e4y.",
                 "",
-                "Hei rullaati ...",
-                "",
-                ""
+                "Hei rullaati ..."
             ],
             "categoryId": "Sitsit",
             "melody": "Rullaati rullaa"
@@ -2678,8 +2496,7 @@
                 "",
                 "Liskojen y\u00f6n\u00e4, yksin m\u00e4 valvon... ",
                 "",
-                ":,: Liskojen y\u00f6n\u00e4, yksin m\u00e4 valvon... :,:",
-                ""
+                ":,: Liskojen y\u00f6n\u00e4, yksin m\u00e4 valvon... :,:"
             ],
             "categoryId": "Sitsit",
             "melody": "Tuhat y\u00f6t\u00e4"
@@ -2729,12 +2546,7 @@
                 "Ja vasta-aineet me tuotetaan ",
                 "(Nucleus) ",
                 "Voimalla kahvin ja kaljatuopin ",
-                "Me jaksetaan huomenna taas uudestaan :,:",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "Me jaksetaan huomenna taas uudestaan :,:"
             ],
             "categoryId": "Sitsit",
             "melody": "Mies ulos sinusta"
@@ -2793,8 +2605,7 @@
                 "Kaadan avuksi Carillon ",
                 "tuntuu tuttu maku hillon. ",
                 "Siihen j\u00e4it\u00e4 vain - m\u00e4 panen ",
-                "siihen j\u00e4it\u00e4 vain...",
-                ""
+                "siihen j\u00e4it\u00e4 vain..."
             ],
             "categoryId": "<40 vol.",
             "melody": "Mozartin 40. sinfonia"
@@ -2811,8 +2622,7 @@
                 "Jollen min\u00e4 kaljaa saa  ",
                 "niin l\u00e4hden toiseen kapakkaan.  ",
                 "Muille maille, vierahille,  ",
-                "ett\u00e4 varmasti kaljaa saan.",
-                ""
+                "ett\u00e4 varmasti kaljaa saan."
             ],
             "categoryId": "<40 vol.",
             "melody": "Kalliolle, kukkulalle"
@@ -2821,7 +2631,6 @@
             "id": 704,
             "title": "Py\u00f6re\u00e4n p\u00f6yd\u00e4n ritarit",
             "lyrics": [
-                "",
                 ":,: Ritarit nuo py\u00f6re\u00e4n p\u00f6yd\u00e4n ",
                 "k\u00e4yv\u00e4t viini\u00e4 maistamaan. :,: ",
                 ":,: K\u00e4yv\u00e4t viini\u00e4 - ei ei, ",
@@ -2857,8 +2666,7 @@
                 "juomareittemme kuningas.\u201d :,: ",
                 ":,: Juomareittemme - ei ei, ",
                 "juomareittemme - juu juu,  ",
-                "juomareittemme kuningas. :,:",
-                ""
+                "juomareittemme kuningas. :,:"
             ],
             "categoryId": "<40 vol.",
             "melody": ""
@@ -2914,8 +2722,7 @@
                 "On kotikalja mulla tuolla  ",
                 "per\u00e4kammarissa. Siell\u00e4 juonut olen  ",
                 "viikon tai kaksi, siksi varmaan  ",
-                "mulla nen\u00e4 punoittaa.",
-                ""
+                "mulla nen\u00e4 punoittaa."
             ],
             "categoryId": "<40 vol.",
             "melody": "Kotiseutu Per\u00e4pohjolassa"
@@ -3004,7 +2811,6 @@
             "id": 710,
             "title": "Ukko Nooa - Gubben Noach",
             "lyrics": [
-                "",
                 "Ukko Nooa, Ukko Nooa oli kunnon mies  ",
                 "Kun h\u00e4n j\u00e4tti arkin luo Araratin \u201cparkin\u201d,  ",
                 "istutti h\u00e4n viinitarhan,  ",
@@ -3040,8 +2846,7 @@
                 "Huolta ei siis liene ollut olla selvin p\u00e4in.  ",
                 "Tavat unohdettiin, kun viini nousi lettiin.  ",
                 "Pohjaan saakka, pohjaan saakka  ",
-                "juotiin maljat n\u00e4in. ",
-                ""
+                "juotiin maljat n\u00e4in. "
             ],
             "categoryId": "<40 vol.",
             "melody": ""
@@ -3187,8 +2992,7 @@
                 "Sen siiderin kumoon ineen!  ",
                 "Viskaan helttaani m\u00e4 sen,  ",
                 "kaljaa vihaan,  ",
-                "viskaan kurkkuuni sen!",
-                ""
+                "viskaan kurkkuuni sen!"
             ],
             "categoryId": "<40 vol.",
             "melody": "Den glider in"
@@ -3271,7 +3075,6 @@
             "id": 720,
             "title": "Kaljaa ainiaan",
             "lyrics": [
-                "",
                 "Joka aamu kun s\u00e4ngyst\u00e4 her\u00e4\u00e4n,  ",
                 "sumuisia muistikuvia mielest\u00e4ni ker\u00e4\u00e4n.  ",
                 "Muistaakseni j\u00e4lleen kerran  ",
@@ -3305,8 +3108,7 @@
                 ":,: M\u00e4 juon kaljaa ainiaan.  ",
                 "Se on niin hyv\u00e4\u00e4.  ",
                 "En v\u00e4lit\u00e4 maksasta p\u00e4tk\u00e4\u00e4k\u00e4\u00e4n,  ",
-                "kun t\u00e4ynn\u00e4 on p\u00e4\u00e4. :,:",
-                ""
+                "kun t\u00e4ynn\u00e4 on p\u00e4\u00e4. :,:"
             ],
             "categoryId": "<40 vol.",
             "melody": ""
@@ -3331,7 +3133,6 @@
             "id": 722,
             "title": "Paavi ja sulttaani",
             "lyrics": [
-                "",
                 "On paavin elo ihanaa,  ",
                 "h\u00e4n kaikki anerahat saa. ",
                 ":,: On viini kallein juomansa. ",
@@ -3368,8 +3169,7 @@
                 "Jos vett\u00e4 v\u00e4liin jois, ",
                 "se janon hukkaan heitt\u00e4mist\u00e4 ois, ",
                 "Cabernet, Sauvignon, ",
-                "jano palaa kyll\u00e4. ",
-                ""
+                "jano palaa kyll\u00e4. "
             ],
             "categoryId": "<40 vol.",
             "melody": "Bohemian Rhapsody"
@@ -3471,8 +3271,7 @@
                 "mi voihkivi tuskissansa.",
                 "",
                 ":,: Sit\u00e4 ennen ei putkemme katketa voi, ",
-                "kun kaikki on turvallansa. :,:",
-                ""
+                "kun kaikki on turvallansa. :,:"
             ],
             "categoryId": ">40 vol.",
             "melody": "J\u00e4\u00e4k\u00e4rimarssi"
@@ -3577,7 +3376,6 @@
             "id": 806,
             "title": "Rosvo-Roope",
             "lyrics": [
-                "",
                 "Jos t\u00e4yt\u00e4tte mun lasini niin tahdon kertoa  ",
                 "t\u00e4\u00e4n surullisen tarinan joll\u2019 ei oo vertoa  ",
                 "Se on laulu merirosvosta Roope nimelt\u00e4\u00e4n  ",
@@ -3610,8 +3408,7 @@
                 "h\u00e4n on nyt Suomessa. ",
                 "Ja jossain jokivarressa lie lossivahtina  ",
                 "H\u00e4n lesken eess\u00e4 n\u00f6yrtyi ja joutui naimisiin   ",
-                "ja sill\u00e4 lailla Rosvo-Roope hiljaa hirtettiin.",
-                ""
+                "ja sill\u00e4 lailla Rosvo-Roope hiljaa hirtettiin."
             ],
             "categoryId": ">40 vol.",
             "melody": ""
@@ -3798,7 +3595,6 @@
             "id": 813,
             "title": "No onkos tullut NYT",
             "lyrics": [
-                "",
                 "No, onkos tullut kes\u00e4 NYT talven keskelle  ",
                 "ja laitetaankos pes\u00e4 my\u00f6s pikkulinnuille.  ",
                 "NYT kuusi kynttil\u00f6ineen  ",
@@ -3819,7 +3615,6 @@
             "id": 814,
             "title": "Veljekset Montgomeryn",
             "lyrics": [
-                "",
                 "Kai muistatte veljekset Montgomeryn:  ",
                 "He kaatoivat kahvinsakin konjakkihin. ",
                 ":,: Mutt\u2019 tarjositpas vett\u00e4, ",
@@ -3841,7 +3636,6 @@
             "id": 815,
             "title": "Hei vahtimestari",
             "lyrics": [
-                "",
                 ":,: Hei vahtimestari! ",
                 "Tule, t\u00e4yt\u00e4 lasini.  ",
                 "Vie tyhj\u00e4t pullot hemmettiin. :,: ",
@@ -3863,7 +3657,6 @@
             "id": 816,
             "title": "Elomme p\u00e4iv\u00e4t ep\u00e4selv\u00e4t",
             "lyrics": [
-                "",
                 "Elomme p\u00e4iv\u00e4t ep\u00e4selv\u00e4t,  ",
                 "kohtalo kova suonut on.",
                 "",
@@ -3885,7 +3678,6 @@
             "id": 817,
             "title": "Minne",
             "lyrics": [
-                "",
                 "Minnet!  ",
                 "Jag har tappat mitt minne!  ",
                 "\u00c4r jag svensk eller finne?  ",
@@ -4108,7 +3900,6 @@
             "id": 824,
             "title": "Kaks\u2019 kis\u00e4lli\u00e4",
             "lyrics": [
-                "",
                 "Kaks\u2019 kis\u00e4lli\u00e4 kulki  ",
                 "maantiet\u00e4 laulellen.  ",
                 "He laulussaan toi julki  ",
@@ -4141,7 +3932,6 @@
             "id": 825,
             "title": "Intian Q",
             "lyrics": [
-                "",
                 "Intiassa kuukin on kuumempi. (oo-hiio-hei!)  ",
                 "Kuin aurinko meill\u00e4  ",
                 "vaan suurempi. (oo-hiio-hei!)  ",
@@ -4295,7 +4085,6 @@
             "id": 829,
             "title": "Raumlase ryypp",
             "lyrics": [
-                "",
                 "Kaad liiveihis ryypp,  ",
                 "hyv\u00e4s seoras vaikk kaks,  ",
                 "kaad kolmaski vi\u00e4l  ",
@@ -4485,7 +4274,6 @@
             "id": 836,
             "title": "Viinaa hyv\u00e4n viinan p\u00e4\u00e4lle",
             "lyrics": [
-                "",
                 "Viinaa hyv\u00e4n viinan p\u00e4\u00e4lle,  ",
                 "viinaa hyv\u00e4n viinan p\u00e4\u00e4lle, ",
                 "viinaa hyv\u00e4n viinan p\u00e4\u00e4lle, ",
@@ -4696,12 +4484,9 @@
             "id": 904,
             "title": "Raittiuslaulu",
             "lyrics": [
-                "",
                 "Pois ottakaa t\u00e4\u00e4 moska,  ",
                 "se pahasta on koska,  ",
-                "voi siit\u00e4 juopua.",
-                "",
-                ""
+                "voi siit\u00e4 juopua."
             ],
             "categoryId": "Undefined",
             "melody": ""
@@ -4730,9 +4515,7 @@
                 "",
                 "...Kas n\u00e4in vietiin kuski...",
                 "",
-                "...Kas n\u00e4in palaa proppu...",
-                "",
-                ""
+                "...Kas n\u00e4in palaa proppu..."
             ],
             "categoryId": "Undefined",
             "melody": "T\u00e4ti-Monika"
@@ -4741,7 +4524,6 @@
             "id": 906,
             "title": "Hullu kirvesmies",
             "lyrics": [
-                "",
                 "Illalla, kun mielipuoli kirveen saa,  ",
                 "h\u00e4n johdattaa mut aitan taa,  ",
                 "siell\u00e4 miss\u00e4 aivokoppa aukeaa  ",
@@ -4761,7 +4543,6 @@
             "id": 907,
             "title": "Undulaattilaulu",
             "lyrics": [
-                "",
                 "M\u00e4 pieni undulaatti oon ja aina niin n\u00e4lk\u00e4inen,  ",
                 "mut kotiv\u00e4ki, mut kotiv\u00e4ki se on niin saita!  ",
                 "Ne antaa silli\u00e4 aina vaan, mut sit\u00e4 en halua,  ",
@@ -4786,7 +4567,6 @@
             "id": 908,
             "title": "Isotalon Antti ja Rannanj\u00e4rvi",
             "lyrics": [
-                "",
                 "Isotalon Antti ja Rannanj\u00e4rvi  ",
                 "ne jutteli kahren kesken: ",
                 ":,: Tapa sin\u00e4 Kauhavan ruma vallesmanni, ",
@@ -4815,9 +4595,7 @@
                 "Ei saa laulaa Rannanj\u00e4rvest\u00e4,  ",
                 "Rannanj\u00e4rvi on kuollu. ",
                 ":,: Rannanj\u00e4rven hauralle, ",
-                "on marmoripaasi tuotu. :,:",
-                "",
-                ""
+                "on marmoripaasi tuotu. :,:"
             ],
             "categoryId": "Undefined",
             "melody": ""
@@ -4880,7 +4658,6 @@
             "id": 911,
             "title": "Pikku kakkosen posti",
             "lyrics": [
-                "",
                 "Pikku kakkosen posti.  ",
                 "Postilokero kolme nelj\u00e4 seitsem\u00e4n  ",
                 "kolme kolme satayksi Tampere kymmenen  ",
@@ -4892,9 +4669,7 @@
                 "Ammattikorkeakoulu!",
                 "",
                 "Pikku kakkosen URL  ",
-                "http://www.yle.fi/~ransu ",
-                "",
-                ""
+                "http://www.yle.fi/~ransu "
             ],
             "categoryId": "Undefined",
             "melody": ""
@@ -4962,9 +4737,7 @@
                 "drunken sailor.      // \u00d73  ",
                 "Early in the morning.",
                 "",
-                "Hooray ...",
-                "",
-                ""
+                "Hooray ..."
             ],
             "categoryId": "Undefined",
             "melody": "sailor"
@@ -5027,9 +4800,7 @@
                 "Det var b\u00e5g, att han s\u00e5g,  ",
                 "Christer sitta p\u00e5 ett t\u00e5g.  ",
                 "Olof Palme gick p\u00e5 bio,  ",
-                "tra la la la laa, tra lal lal laa.",
-                "",
-                ""
+                "tra la la la laa, tra lal lal laa."
             ],
             "categoryId": "Undefined",
             "melody": "Kuusen kotiin tuoda saamme"
@@ -5054,9 +4825,7 @@
                 "Sein\u00e4\u00e4n osui oikee puoli,  ",
                 "Ayrton Senna aivokuoli.  ",
                 "Ayrton Senna ajoi mutkaan,  ",
-                "tra la la la laa, tra lal lal laa.",
-                "",
-                ""
+                "tra la la la laa, tra lal lal laa."
             ],
             "categoryId": "Undefined",
             "melody": "Kuusen kotiin tuoda saamme"
@@ -5085,9 +4854,7 @@
                 "Min\u00e4 soitan harmonikkaa, ihmiset on ",
                 "kummissaan. ",
                 "Voisin viett\u00e4\u00e4 juhlap\u00e4iv\u00e4\u00e4 j\u00e4lleen ",
-                "huomenna!",
-                "",
-                ""
+                "huomenna!"
             ],
             "categoryId": "Undefined",
             "melody": ""
@@ -5179,9 +4946,7 @@
                 "",
                 "T\u00e4ss\u00e4 oli n\u00e4m\u00e4 tieteet.  ",
                 "Kohta muutan Otaniemeen ",
-                ":,: voimalla seitsem\u00e4n tieteen :,:",
-                "",
-                ""
+                ":,: voimalla seitsem\u00e4n tieteen :,:"
             ],
             "categoryId": "Undefined",
             "melody": "Seitsem\u00e4n miehen voima"
@@ -5190,7 +4955,6 @@
             "id": 919,
             "title": "Pok\u00e9mon",
             "lyrics": [
-                "",
                 "M\u00e4 tunnen sen jo kasvavan, ",
                 "voiman sis\u00e4ll\u00e4in. ",
                 "Uuden haasteen toteutan ",
@@ -5211,9 +4975,7 @@
                 "niin rohkeus palkan saa. ",
                 "Toinen toistaan opettaa, ",
                 "Pok\u00e9mon, omakseni saan. ",
-                "Omakseni saan, Pok\u00e9mon!",
-                "",
-                ""
+                "Omakseni saan, Pok\u00e9mon!"
             ],
             "categoryId": "Undefined",
             "melody": ""
@@ -5281,9 +5043,7 @@
                 "viattomat fuksityt\u00f6t Hervannasta tuodaan. ",
                 "Hurahuhhahhei! ",
                 "Mist\u00e4 helpoimmalla saadaan sill\u00e4 niin me  ",
-                "tehd\u00e4\u00e4n Tupsulassa haureutta.",
-                "",
-                ""
+                "tehd\u00e4\u00e4n Tupsulassa haureutta."
             ],
             "categoryId": "Undefined",
             "melody": "Mannakorven mailla"
@@ -5329,8 +5089,7 @@
                 "julkisivuduunarit ne Arabiasta tuodaan. ",
                 "Hurraa huh hah hei! ",
                 "Mist\u00e4 orjaty\u00f6ll\u00e4 saadaan! Sill\u00e4 niin me ",
-                "tehd\u00e4\u00e4n Aallostakin Shangri-La.",
-                ""
+                "tehd\u00e4\u00e4n Aallostakin Shangri-La."
             ],
             "categoryId": "Undefined",
             "melody": "Mannakorven mailla"
@@ -5343,12 +5102,7 @@
                 "mut Turun siit\u00e4 poistaisin, ",
                 "pit\u00e4isk\u00f6 olla otettu, ",
                 "on se jo kerran poltettu, ",
-                "persl\u00e4pi Suomen maan.",
-                "",
-                "",
-                "",
-                "",
-                ""
+                "persl\u00e4pi Suomen maan."
             ],
             "categoryId": "Undefined",
             "melody": "H\u00e4m\u00e4l\u00e4isen laulu"
@@ -5357,7 +5111,6 @@
             "id": 1001,
             "title": "Yogi Bear",
             "lyrics": [
-                "",
                 "I know someone you don\u2019t know, Yogi, Yogi.  ",
                 "I know someone you don\u2019t know,  ",
                 "Yogi, Yogi Bear. ",
@@ -5384,7 +5137,6 @@
                 "Up the, up the ass.  ",
                 "Bobo likes it up the ass, up the, up the ass. ",
                 "",
-                "Tuhmeliinit",
                 "Yogi has a girlfriend, Cindy, Cindy. ",
                 "Yogi has a girlfriend, Cindy, Cindy bear. ",
                 "Cindy, Cindy bear,  ",
@@ -5417,7 +5169,6 @@
                 "Betsy, Betsy bear. ",
                 "Cindy has a girlfriend, Betsy, Betsy bear.",
                 "",
-                "Tuhmeliinit",
                 "Betsy likes it in a group, gangbang, gangbang. ",
                 "Betsy likes it in a group,  ",
                 "gang-ga gang gangbang. ",
@@ -5446,7 +5197,6 @@
                 "Yogi likes them dead and cold,  ",
                 "necrophilic bear.",
                 "",
-                "Tuhmeliinit",
                 "Yogi likes it young and sweet, pedo, pedo.  ",
                 "Yogi likes it young and sweet, pedo, pedobear.  ",
                 "Pedo, pedobear,  ",
@@ -5477,9 +5227,7 @@
                 "Yogi doesn\u2019t shave at all, grizzly, grizzly bear.  ",
                 "Grizzly, grizzly bear  ",
                 "grizzly, grizzly bear.  ",
-                "Yogi doesn\u2019t shave at all, grizzly, grizzly bear.",
-                "",
-                "Tuhmeliinit"
+                "Yogi doesn\u2019t shave at all, grizzly, grizzly bear."
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": ""
@@ -5491,8 +5239,7 @@
                 "Hitler - had only one big ball,  ",
                 "G\u00f6ring - had two but they were small,  ",
                 "Himler - had something similar, but poor  ",
-                "G\u00f6bbels had no balls at all.",
-                ""
+                "G\u00f6bbels had no balls at all."
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": "Kwai-joen silta"
@@ -5504,8 +5251,7 @@
                 ":,: Kun m\u00e4 nuolen, multiorgasmin s\u00e4 saat. :,: ",
                 "Sill\u00e4 karhee on mun kieli,  ",
                 "perverssi on mulla mieli  ",
-                "Kun m\u00e4 nuolen multiorgasmin s\u00e4 saat!",
-                ""
+                "Kun m\u00e4 nuolen multiorgasmin s\u00e4 saat!"
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": "Kun m\u00e4 kuolen"
@@ -5517,9 +5263,7 @@
                 ":,: Kun m\u00e4 imen, multiorgasmin s\u00e4 saat. :,: ",
                 "Sill\u00e4 vikkel\u00e4 on kieli,  ",
                 "sek\u00e4 perverssi mun mieli  ",
-                "Kun m\u00e4 imen multiorgasmin s\u00e4 saat!",
-                "",
-                "Tuhmeliinit"
+                "Kun m\u00e4 imen multiorgasmin s\u00e4 saat!"
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": "Kun m\u00e4 kuolen"
@@ -5528,7 +5272,6 @@
             "id": 1005,
             "title": "Karhumets\u00e4\u00e4n",
             "lyrics": [
-                "",
                 ":,: L\u00e4htek\u00e4\u00e4mme karhumets\u00e4\u00e4n ",
                 "Reisij\u00e4rven rantaan. :,: ",
                 ":,: Siell\u2019 on karhu kontallansa, ",
@@ -5555,9 +5298,7 @@
                 "",
                 ":,: Pienet linnut kuusikossa toisiansa naivat. :,: ",
                 ":,: Pois ne lent\u00e4\u00e4 liihottaapi ",
-                "tarpeeksensa kun saivat. :,:",
-                "",
-                "Tuhmeliinit"
+                "tarpeeksensa kun saivat. :,:"
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": ""
@@ -5566,7 +5307,6 @@
             "id": 1006,
             "title": "Suomalaisten poikain vitutuslaulu",
             "lyrics": [
-                "",
                 "Uamulla pitt\u00e4is t\u00f6ihin menn\u00e4  ",
                 "vaan enp\u00e4 taida jaksaa.",
                 "",
@@ -5590,9 +5330,7 @@
                 "Voi suatana perkele helvetti tuota  ",
                 "ja vittu jumalauta.",
                 "",
-                "Niin niin ja niin niin...",
-                "",
-                "Tuhmeliinit"
+                "Niin niin ja niin niin..."
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": ""
@@ -5626,7 +5364,6 @@
                 "kateellinen kitaristi ulosti mun tuubaan,  ",
                 "jonka j\u00e4lkeen siell\u00e4 en\u00e4\u00e4 banjot soi.",
                 "",
-                "Tuhmeliinit",
                 "Se aika oli raskasta,  ",
                 "kun torvi t\u00e4yttyi paskasta.  ",
                 "Mut el\u00e4m\u00e4ni vaikka oli pieless\u00e4,  ",
@@ -5640,8 +5377,7 @@
                 "Kun kuulin t\u00e4m\u00e4n tuomion,  ",
                 "\u201csun m\u00e4\u00e4r\u00e4np\u00e4\u00e4si Suomi on\u201d,  ",
                 "niin tiesin, ett\u00e4 nyt on kaikki pieless\u00e4,  ",
-                "ei edes vittu ole mieless\u00e4.",
-                ""
+                "ei edes vittu ole mieless\u00e4."
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": "S\u00e4v./san. Junnu Vainio"
@@ -5660,7 +5396,6 @@
                 "Kulli oli k\u00e4sittelyn j\u00e4lkeen viikon j\u00e4iss\u00e4  ",
                 "ja l\u00e4\u00e4k\u00e4rikin luuli ett\u00e4 sit\u00e4 puri hai.",
                 "",
-                "Tuhmeliinit",
                 "Siell\u00e4 juotiin, siell\u00e4 nussittiin,  ",
                 "kev\u00e4\u00e4ll\u00e4 tyhj\u00e4t oli pussit niin.  ",
                 "Siell\u00e4 juotiin, siell\u00e4 nussittiin,  ",
@@ -5689,9 +5424,7 @@
                 "Sekin tuli jonkun persereik\u00e4\u00e4n ty\u00f6nnetyksi,  ",
                 "ja eik\u00f6h\u00e4n se pime\u00e4ss\u00e4 mulkun virkaa tee.",
                 "",
-                "Siell\u00e4 juotiin...",
-                "",
-                "Tuhmeliinit"
+                "Siell\u00e4 juotiin..."
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": "esitt. Junnu Vainio"
@@ -5700,7 +5433,6 @@
             "id": 1009,
             "title": "Saku Sammakko",
             "lyrics": [
-                "",
                 ":,: Saku Sammakko kosiomatkallaan,  ",
                 "ahaa, ahaa. :,: ",
                 "Saku Sammakko kosiomatkallaan  ",
@@ -5729,13 +5461,11 @@
                 "ett\u00e4 Saku teki sit\u00e4 paljaaltaan,  ",
                 "voi ei, voi ei, voi ei.",
                 "",
-                "Tuhmeliinit",
                 ":,: Sai my\u00f6s Saku muiston itselleen,  ",
                 "ai ai, ai ai. :,: ",
                 "Sai my\u00f6s Saku muiston itselleen,  ",
                 "satiaiset, kupan ja syfiliksen,  ",
-                "aih aih, aih aih, aih aih.",
-                ""
+                "aih aih, aih aih, aih aih."
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": ""
@@ -5764,7 +5494,6 @@
                 ":,: Tartu kiinni sarvista, ota haju arvesta, ",
                 "ved\u00e4 varvi koko tokasta. :,:",
                 "",
-                "Tuhmeliinit",
                 ":,: Naidaan majavaa,  ",
                 "majavalta l\u00f6ytyy parrua. :,: ",
                 ":,: Ota kiinni hampaista, ved\u00e4 parru padosta, ",
@@ -5790,9 +5519,7 @@
                 "proffat antaa meille noppia. :,: ",
                 ":,: Ved\u00e4 proffaa kakkoseen,  ",
                 "niin se antaa nelosen, ",
-                "ved\u00e4 kovaa niin antaa vitosen. :,:",
-                "",
-                "Tuhmeliinit"
+                "ved\u00e4 kovaa niin antaa vitosen. :,:"
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": "Lambada"
@@ -5811,9 +5538,7 @@
                 "Ainainen naiminen vituttaa, tieheni k\u00e4yn.",
                 "",
                 "E-ee-\u00e4 eua-o, oie ea \u00e4-\u00e4 o.  ",
-                "Aiai-e ai-ie iu-aa, ie-eei \u00e4y.",
-                "",
-                "Tuhmeliinit"
+                "Aiai-e ai-ie iu-aa, ie-eei \u00e4y."
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": "King of the Road"
@@ -5846,9 +5571,7 @@
                 "Is\u00e4nt\u00e4 se s\u00e4ngyn alla kytt\u00e4si ja vahti, ",
                 "millanen on Levanterin panemisen tahti. ",
                 "Hura huh hah hei, ei n\u00e4hty n\u00e4ill\u00e4 mailla ",
-                "ole Levanterin kullia komiampaa.",
-                "",
-                "Tuhmeliinit"
+                "ole Levanterin kullia komiampaa."
             ],
             "categoryId": "Tuhmeliinit!",
             "melody": "Mannakorven mailla"
@@ -5918,8 +5641,7 @@
                 "",
                 "  /* Ken on j\u00e4sen */",
                 "Ken on j\u00e4sen Digit ry:n ... ",
-                "Ken on j\u00e4sen Nucleuksen, ... // jne.",
-                ""
+                "Ken on j\u00e4sen Nucleuksen, ... // jne."
             ],
             "categoryId": "\u00c4l\u00e4 laula!",
             "melody": "j\u00e4sen"
@@ -6085,8 +5807,7 @@
                 "",
                 ":,: Singin' jai jai jippijippi jai (jippi jai). :,: ",
                 "Singing jaijai jippijippi jaijai jippijippi  ",
-                "jai jai jippijippi jai (jippi jai)!",
-                ""
+                "jai jai jippijippi jai (jippi jai)!"
             ],
             "categoryId": "\u00c4l\u00e4 laula!",
             "melody": "Jos sun lysti on"
@@ -6095,7 +5816,6 @@
             "id": 1104,
             "title": "  Onomatopoeettinen alkoholiliike",
             "lyrics": [
-                "",
                 "Kana sanoo kot kot kot kot kot kot.  ",
                 "Kana sanoo kot kot kot kot kot kot.  ",
                 "Kuinka kana sanoo? Kuinka kana sanoo?  ",
@@ -6137,8 +5857,7 @@
                 "Kuinka siitti\u00f6 sanoo? Kuinka siitti\u00f6 sanoo?  ",
                 "Kuinka siitti\u00f6 sanoo I love you?  ",
                 "Siitti\u00f6 sanoo ptlqm ptlqm.  ",
-                "ptlqm ptlqm ptlqm ptlqm.",
-                ""
+                "ptlqm ptlqm ptlqm ptlqm."
             ],
             "categoryId": "\u00c4l\u00e4 laula!",
             "melody": ""
@@ -6147,7 +5866,6 @@
             "id": 1105,
             "title": "  Ievan Polkka",
             "lyrics": [
-                "",
                 "Nuapurista kuulu se polokan tahti  ",
                 "jalakani pohjii kutkutti.  ",
                 "Ievan \u00e4iti se tytt\u00f6\u00f6s\u00e4 vahti  ",
@@ -6200,8 +5918,7 @@
                 "sill\u00e4 ei t\u00e4t\u00e4 poikoo kainous haittaa  ",
                 "sillon ko tanssii laiasta laitaan.  ",
                 "Salivili hipput tupput t\u00e4ppyt  ",
-                "\u00e4ppyt tipput hilijalleen.",
-                ""
+                "\u00e4ppyt tipput hilijalleen."
             ],
             "categoryId": "\u00c4l\u00e4 laula!",
             "melody": ""
@@ -6242,8 +5959,7 @@
                 "Vaan eip\u00e4 taida kannattaa nenillens\u00e4 hyppi\u00e4 -  ",
                 "On multa liian helppoa n\u00e4et siivet nyppi\u00e4.",
                 "",
-                "Siis surffaamaan... ",
-                ""
+                "Siis surffaamaan... "
             ],
             "categoryId": "\u00c4l\u00e4 laula!",
             "melody": "Baarik\u00e4rp\u00e4nen"
@@ -6252,7 +5968,6 @@
             "id": 1107,
             "title": "Lastenlaulu",
             "lyrics": [
-                "",
                 "Ven\u00e4j\u00e4nmaa antoi lapsilleen  ",
                 "vanhoja mummoja  ",
                 "Ja niiden sis\u00e4ll\u00e4 on uusia mummoja // \u00d73",
@@ -6300,7 +6015,6 @@
             "id": 1108,
             "title": "Yesterday (Computer-mix)",
             "lyrics": [
-                "",
                 "Yesterday,  ",
                 "all those backups seemed a waste of pay.  ",
                 "Now my database has gone away.  ",
