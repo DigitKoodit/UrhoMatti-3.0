@@ -14,6 +14,7 @@ class Search extends Component {
 				};
 			}),
 		];
+		options[0].push({ value: 'hymni', label: 'Teekkarihymni' });
 
 		const styles = {
 			menu: styles => ({ ...styles, width: 'calc(100vw - 20px)', maxWidth: '600px' }),

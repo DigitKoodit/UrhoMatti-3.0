@@ -19,7 +19,6 @@ body {
 .page {
   width: 100vw;
   padding-top: 52px;
-  padding-bottom: 60px;
   text-align: center;
   min-height: calc(100% - 106px);
 }
@@ -65,7 +64,7 @@ body {
 
 #flyoutMenu {
   width: 100vw;
-  height: calc(100vh - 106px);
+  height: calc(100vh - 54px);
   background-color: #333;
   position: fixed;
   top: 52px;
@@ -179,6 +178,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-weight: bold;
+  color:white;
 }
 
 .landing-image {
@@ -188,6 +189,9 @@ body {
 }
 
 
+.song-page {
+  padding-bottom: 60px;
+}
 
 .song-header {
   font-size: 1.5em;
@@ -246,17 +250,8 @@ body {
 }
 
 
-.hymni-page {
-  background-color: black;
-  color: white;
-  min-height: calc(100% - 52px);
-  display: flex;
-  font-weight: bold;
-}
-
-.hymni {
-  margin: auto;
-  padding-bottom: 10vh;
+.hymni-header {
+  padding-top: 0;
 }
 
 

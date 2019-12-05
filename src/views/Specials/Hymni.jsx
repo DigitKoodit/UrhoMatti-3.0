@@ -4,9 +4,9 @@ class Hymni extends Component {
 	render() {
 		return (
 			<>
-				<div className="page song-page hymni-page">
+				<div className="page landing-page">
                     <div className="hymni">
-                        <p className="song-header">
+                        <p className="song-header hymni-header">
                             {"Teekkarihymni"}
                         </p>
                         <p className="song-melody">{"trad."}</p>
