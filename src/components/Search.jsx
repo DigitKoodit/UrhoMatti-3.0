@@ -20,7 +20,7 @@ class Search extends Component {
 			menu: styles => ({ ...styles, width: 'calc(100vw - 20px)', maxWidth: '600px' }),
 		}
 		return (
-			<div id="search-bar">
+			<div id="search-bar" className="search-bar">
 				<Select
 					options={options[0]}
 					placeholder="Hae laulua tai kategoriaa"

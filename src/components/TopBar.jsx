@@ -27,7 +27,7 @@ class TopBar extends Component {
 
 	render() {
 		return (
-			<div className="top-bar">
+			<div id="top-bar" className="top-bar">
 				<a href="/" className="top-bar-heading">
 					<img
 						src={require('../images/topbar.png')}

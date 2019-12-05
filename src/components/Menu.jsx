@@ -27,7 +27,7 @@ class Menu extends Component {
 			<div
 				id="flyoutMenu"
 				onClick={this.props.onClick}
-				className={visibility}
+				className={'flyoutMenu ' + visibility}
 			>
 				<div className="menu-content">
 					<a

@@ -1,11 +1,18 @@
 import React, { Component } from 'react';
 
 class Hymni extends Component {
+
+    componentDidMount () {
+            document.getElementById('search-bar').classList.add("hymni");
+            document.getElementById('flyoutMenu').style.backgroundColor = "#000000";
+            document.getElementById('top-bar').classList.add('hymni');
+        }
+
 	render() {
 		return (
 			<>
 				<div className="page landing-page">
-                    <div className="hymni">
+                    <div className="hymni-container">
                         <p className="song-header hymni-header">
                             {"Teekkarihymni"}
                         </p>
