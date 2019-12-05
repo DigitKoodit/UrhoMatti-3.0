@@ -1,9 +1,10 @@
 import React, {Component} from 'react';
+import { Redirect } from 'react-router-dom';
 
 class Song extends Component {
 
 	render() {
-		console.log(this.props.song);
+		if (typeof this.props.song !== 'undefined') {
             return (
 				<>
 					<div className="page song-page">
@@ -27,6 +28,11 @@ class Song extends Component {
 					</div>
 				</>
 			);
+		} else {
+			return (
+				<Redirect to="/" />
+			)
+		}
 	}
 }
 

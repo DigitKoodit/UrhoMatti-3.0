@@ -26,6 +26,7 @@ class App extends Component {
                     />
                     <Route exact path="/hymni" component={Hymni} />
                     <Route exact path="/saannot" component={Rules} />
+                    <Route component={LandingPage} />
                 </Switch>
             </BrowserRouter>
         )
