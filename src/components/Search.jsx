@@ -14,6 +14,10 @@ class Search extends Component {
 				};
 			}),
 		];
+
+		const styles = {
+			menu: styles => ({ ...styles, width: 'calc(100vw - 20px)', maxWidth: '600px' }),
+		}
 		return (
 			<div id="search-bar">
 				<Select
@@ -23,6 +27,7 @@ class Search extends Component {
 					onChange={option =>
 						(window.location.href = '/' + option.value + '')
 					}
+					styles={styles}
 				/>
 			</div>
 		);
