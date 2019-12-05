@@ -10,7 +10,7 @@ class MenuCategory extends Component {
 				{db.categories.map(category => (
 					<div key={category.id}>
 						<a className="menu-category" href={category.title}>
-							{category.title}
+							{category.title}{category.title.includes("40")&&" %"}
 						</a>
 						<MenuSongs
 							category={category.title}

@@ -10,7 +10,7 @@ class Search extends Component {
 			content.map(song => {
 				return {
 					value: song.id < 100 ? `${song.title}` : `${song.id}`,
-					label: `${song.id}. ${song.title}`
+					label: `${song.id}. ${song.title} ${song.title.includes('40')?' %':''}`
 				};
 			}),
 		];

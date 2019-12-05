@@ -12,10 +12,12 @@ class Rules extends Component {
 						</p>
 						<p className="song-lyrics">
 							{'• Skoolaus:\n'}
-							<div className="indent">
+							<span className="indent">
 								{'Herrat: oikea-vasen-eteen\n'}
+							</span>
+							<span className="indent">
 								{'Daamit: vasen-oikea-eteen'}
-							</div>
+							</span>
 						</p>
 
 						<p className="song-lyrics">
