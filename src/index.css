@@ -11,26 +11,27 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-#root {
-  height: 100%;
+.content--wrapper {
+  min-height: 100vh;
+  position: relative;
 }
 
 .page {
   width: 100vw;
   padding-top: 52px;
+  padding-bottom: 60px;
   text-align: center;
   min-height: calc(100% - 106px);
 }
 
 
 #search-bar {
-  padding: 0 10px;
+  background-color: #333;
+  padding: 10px;
   min-width: 60vw;
   max-width: 600px;
   position: fixed;
-  margin-left: auto;
   left: 0;
-  margin-right: auto;
   right: 0;
   z-index: 100;
 }
@@ -47,7 +48,7 @@ body {
 .top-bar-heading {
   margin-top: 10px;
   margin-left: 10px;
-  margin-bottom: 19.92px;
+  margin-bottom: 10px;
   color: #FFE600;
   text-decoration: none;
   display: inline-block;
@@ -197,6 +198,7 @@ body {
 }
 
 .song-footer {
+  position: absolute;
   background-color: #333;
   padding: 15px 0px;
   width: 100%;
