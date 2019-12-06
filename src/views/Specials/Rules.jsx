@@ -46,7 +46,7 @@ class Rules extends Component {
 					</div>
 				</div>
 				<div className="song-footer">
-					<p className="song-footer-category">{'Säännöt'}</p>
+					<p className="song-footer-category" onClick={() => window.location.href = '/tietovalueforlife'}>{'Säännöt'}</p>
 				</div>
 			</>
 		);

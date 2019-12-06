@@ -26,6 +26,7 @@ class App extends Component {
                             render={(path) => <Category category={db["categories"].find((category) => (category.title) === path.match.params.title)} songs={db["songs"].filter(song => song.categoryId === path.match.params.title)} />}
                         />
                         <Route exact path="/hymni" component={Hymni} />
+                        <Route exact path="/tietovalueforlife" render={() => <Song song={db["?"][0]} />} />
                         <Route exact path="/saannot" component={Rules} />
                         <Route component={LandingPage} />
                     </Switch>
