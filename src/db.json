@@ -1731,7 +1731,7 @@
         },
         {
             "id": 624,
-            "title": "Jos (e)ukkosi kielt\u00e4\u00e4 sua",
+            "title": "Jos (e)ukkosi kielt\u00e4\u00e4 sua juomasta",
             "lyrics": [
                 "Jos eukkosi kielt\u00e4\u00e4 sua juomasta,",
                 "niin juo, niin juo.",
@@ -1776,7 +1776,7 @@
                 "Ja juo ja laulaa ..."
             ],
             "categoryId": "Sitsit",
-            "melody": "juomasta"
+            "melody": ""
         },
         {
             "id": 625,
@@ -4613,7 +4613,7 @@
         },
         {
             "id": 912,
-            "title": "What shall we do with the drunken",
+            "title": "What shall we do with the drunken sailor",
             "lyrics": [
                 "What shall we do with the",
                 "drunken sailor?     // \u00d73",
@@ -4641,7 +4641,6 @@
                 "Early in the morning.",
                 "",
                 "Hooray ...",
-                "",
                 "",
                 "Pull out the plug and",
                 "wet him all over.     // \u00d73",
@@ -4677,7 +4676,7 @@
                 "Hooray ..."
             ],
             "categoryId": "Undefined",
-            "melody": "sailor"
+            "melody": ""
         },
         {
             "id": 913,
