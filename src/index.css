@@ -67,7 +67,7 @@ body {
   height: calc(100vh - 54px);
   background-color: #333;
   position: fixed;
-  top: 52px;
+  top: 53px;
   left: 0;
   transition: transform .3s
   cubic-bezier(0, .50, 0, 1);
