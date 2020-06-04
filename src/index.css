@@ -106,7 +106,7 @@ body {
   text-align: left;
   color: #FFE600;
   font-weight: bold;
-  text-decoration: none;  
+  text-decoration: none;
 }
 
 .menu-category {
@@ -152,8 +152,8 @@ body {
 
 /* Rotate first bar */
 .menu .bar1 {
-    -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
-    transform: rotate(-45deg) translate(-9px, 6px) ;
+    -webkit-transform: rotate(-45deg) translate(8px, 8px) ;
+    transform: rotate(-45deg) translate(-8px, 8px) ;
 }
 
 /* Fade out the second bar */
