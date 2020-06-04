@@ -180,10 +180,26 @@ body {
   color:white;
 }
 
+.landing-image-container {
+  position: relative;
+}
+
 .landing-image {
   flex: auto;
   height: 85vh;
   width: 100vw;
+}
+
+.self-promotion-link {
+  transform: translate(-50%);
+  position: absolute;
+  top: 78vh;
+  left: 25%;
+}
+
+.self-promotion-link svg {
+  fill: #FFE600;
+  height: 5vh;
 }
 
 
