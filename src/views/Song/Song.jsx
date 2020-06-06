@@ -14,7 +14,7 @@ class Song extends Component {
       function (event) {
         touchstartX = event.changedTouches[0].screenX;
       },
-      false
+      { passive: true }
     );
 
     gestureZone.addEventListener(
@@ -23,7 +23,7 @@ class Song extends Component {
         touchendX = event.changedTouches[0].screenX;
         handleGesture();
       },
-      false
+      { passive: true }
     );
 
     function handleGesture() {
