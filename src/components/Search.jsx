@@ -28,6 +28,9 @@ class Search extends Component {
       option: (styles, state) => ({
         ...styles,
         backgroundColor: state.isFocused || state.isHovered ? '#ffe600' : '',
+        '&:active': {
+          backgroundColor: '#ffe600',
+        },
       }),
     };
     return (
