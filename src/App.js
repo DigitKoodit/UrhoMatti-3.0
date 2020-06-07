@@ -11,10 +11,6 @@ import db from './db.json';
 class App extends Component {
 
     render() {
-
-        let viewport = document.querySelector("meta[name=viewport]");
-        viewport.setAttribute("content", viewport.content + ", height=" + window.innerHeight);
-
         return (
             <div className="content--wrapper">
                 <BrowserRouter>
