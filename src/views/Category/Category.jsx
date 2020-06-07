@@ -29,7 +29,9 @@ class Category extends Component {
     function handleGesture() {
       if (touchstartX - touchendX > 50) {
         const categoryIndex = db['categories'].indexOf(category);
-        const nextCategoryId = db['categories'][categoryIndex + 1]?.title;
+        const nextCategoryId = db['categories'][categoryIndex + 1]
+          ? db['categories'][categoryIndex + 1].title
+          : null;
         if (nextCategoryId) {
           window.location.href = window.location.origin + '/' + nextCategoryId;
         }
@@ -37,7 +39,9 @@ class Category extends Component {
 
       if (touchendX - touchstartX > 50) {
         const categoryIndex = db['categories'].indexOf(category);
-        const lastCategoryId = db['categories'][categoryIndex - 1]?.title;
+        const lastCategoryId = db['categories'][categoryIndex - 1]
+          ? db['categories'][categoryIndex - 1].title
+          : null;
         if (lastCategoryId) {
           window.location.href = window.location.origin + '/' + lastCategoryId;
         }

@@ -29,7 +29,7 @@ class Song extends Component {
     function handleGesture() {
       if (touchstartX - touchendX > 50) {
         const songIndex = db['songs'].indexOf(song);
-        const nextSongId = db['songs'][songIndex + 1]?.id;
+        const nextSongId = db['songs'][songIndex + 1] ? db['songs'][songIndex + 1].id : null;
         if (nextSongId) {
           window.location.href = window.location.origin + '/' + nextSongId;
         }
@@ -37,7 +37,7 @@ class Song extends Component {
 
       if (touchendX - touchstartX > 50) {
         const songIndex = db['songs'].indexOf(song);
-        const lastSongId = db['songs'][songIndex - 1]?.id;
+        const lastSongId = db['songs'][songIndex - 1] ? db['songs'][songIndex - 1].id : null;
         if (lastSongId) {
           window.location.href = window.location.origin + '/' + lastSongId;
         }
