@@ -23,7 +23,8 @@ class LandingPage extends Component {
             href="https://github.com/DigitKoodit/UrhoMatti-3.0"
             className="self-promotion-link"
             target="_blank"
-            rel="noopener noreferrer">
+            rel="noopener noreferrer"
+            aria-label="UrhoMatti Github repository">
             {githubIcon}
           </a>
         </div>

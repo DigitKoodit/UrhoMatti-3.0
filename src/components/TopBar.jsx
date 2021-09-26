@@ -34,6 +34,7 @@ class TopBar extends Component {
 						src={logo}
 						alt="Urho Matti 3.0"
 						height="29px"
+						width="237px"
 					/>
 				</a>
 				<MenuButton

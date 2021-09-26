@@ -32,6 +32,7 @@ class Search extends Component {
           backgroundColor: '#ffe600',
         },
       }),
+      placeholder: (styles) => ({ ...styles, color: '#757575' }),
     };
     return (
       <div id="search-bar" className="search-bar">
@@ -40,6 +41,7 @@ class Search extends Component {
           placeholder="Hae laulua tai kategoriaa"
           noOptionsMessage={() => 'Ei tuloksia'}
           onChange={(option) => (window.location.href = '/' + option.value + '')}
+          aria-labelledby="react-select-2-placeholder"
           styles={styles}
         />
       </div>
