@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import logo from '../../images/landing.svg'
 
 class LandingPage extends Component {
   render() {
@@ -13,7 +14,7 @@ class LandingPage extends Component {
         <div className="landing-image-container">
           <img
             className="landing-image"
-            src={require('../../images/landing.svg')}
+            src={logo}
             alt="Urho Matti 3.0 logo"
             height="100%"
             width="100%"
@@ -22,7 +23,8 @@ class LandingPage extends Component {
             href="https://github.com/DigitKoodit/UrhoMatti-3.0"
             className="self-promotion-link"
             target="_blank"
-            rel="noopener noreferrer">
+            rel="noopener noreferrer"
+            aria-label="UrhoMatti Github repository">
             {githubIcon}
           </a>
         </div>
