@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.458d7285.chunk.css",
+    "main.js": "/static/js/main.d00234de.chunk.js",
+    "main.js.map": "/static/js/main.d00234de.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.258e1763.js",
+    "runtime~main.js.map": "/static/js/runtime~main.258e1763.js.map",
+    "static/js/2.85f32d04.chunk.js": "/static/js/2.85f32d04.chunk.js",
+    "static/js/2.85f32d04.chunk.js.map": "/static/js/2.85f32d04.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.453f248d7011d4e18032dd0d1ffaa93e.js": "/precache-manifest.453f248d7011d4e18032dd0d1ffaa93e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.458d7285.chunk.css.map": "/static/css/main.458d7285.chunk.css.map",
+    "static/media/alalaula.png": "/static/media/alalaula.c4852fe9.png",
+    "static/media/alle40.png": "/static/media/alle40.d81f68a6.png",
+    "static/media/joulu.png": "/static/media/joulu.0555b015.png",
+    "static/media/juhlavat.png": "/static/media/juhlavat.2dd4d925.png",
+    "static/media/landing.svg": "/static/media/landing.76744231.svg",
+    "static/media/rock.png": "/static/media/rock.b6231c6a.png",
+    "static/media/sitsit.png": "/static/media/sitsit.f41bd458.png",
+    "static/media/sydän.png": "/static/media/sydän.b4b954c8.png",
+    "static/media/tuhmeliinit.png": "/static/media/tuhmeliinit.ee1ed9e5.png",
+    "static/media/tupsulaulut.png": "/static/media/tupsulaulut.3a3e71a1.png",
+    "static/media/undefined.png": "/static/media/undefined.5295609d.png",
+    "static/media/yli40prossaa.png": "/static/media/yli40prossaa.23db3402.png"
+  }
+}
