@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import MenuButton from './MenuButton';
 import Menu from './Menu';
 import Search from './Search';
-import logo from '../images/topbar.png';
-
 
 class TopBar extends Component {
 	constructor(props) {
@@ -31,7 +29,7 @@ class TopBar extends Component {
 			<div id="top-bar" className="top-bar">
 				<a href="/" className="top-bar-heading">
 					<img
-						src={logo}
+						src="/images/topbar.png"
 						alt="Urho Matti 3.0"
 						height="29px"
 						width="237px"

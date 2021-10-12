@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from '../../images/landing.svg'
 
 class LandingPage extends Component {
   render() {
@@ -14,7 +13,7 @@ class LandingPage extends Component {
         <div className="landing-image-container">
           <img
             className="landing-image"
-            src={logo}
+            src="/images/landing.svg"
             alt="Urho Matti 3.0 logo"
             height="100%"
             width="100%"
