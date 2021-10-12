@@ -57,7 +57,7 @@ class Category extends Component {
           </p>
           <div className="category-image-container">
             <img
-              src={require('../../images/categories/' + category.image + '.png')}
+              src={`/images/categories/${category.image}.png`}
               alt={category.image}
               height="100%"
             />
