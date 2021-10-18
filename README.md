@@ -1,9 +1,11 @@
 # Urho Matti 3.0
 
+Available on [urhomatti.fi](https://urhomatti.fi)
+
 Digital version of Urho Matti 3.0 songbook.
 Urho Matti 3.0 is the newest songbook for Finnish engineering student organizations in Turku. The book was published in December 2019 along with the digital version.
 
-A PWA App developed with React. The song and category data is fetched from a json file and no backend functionality is needed. The datamodel for the json file can be found below.
+A PWA App developed with React. The application is also available [on Google Play](https://play.google.com/store/apps/details?id=fi.urhomatti.twa) The song and category data is fetched from a json file and no backend functionality is needed. The datamodel for the json file can be found below.
 
 ### Getting started
 
@@ -53,3 +55,13 @@ categories: [
     }
 ]
 ```
+
+## Google Play release
+In order to release a new version of the app you need to generate the application with [Bubblewrap CLI](https://github.com/GoogleChromeLabs/bubblewrap/tree/main/packages/cli).
+
+- ```npm install -g @bubblewrap/cli```, this will install the Bubblewrap CLI from NPM
+- ```bubblewrap init --manifest="https://urhomatti.fi/manifest.json"``` which will initialize the project and generate an Android project from the manifest.json file
+- ```bubblewrap build``` to build the project and create APK/AAB package that can be tested and released to Google Play
+- ```bubblewrap install``` to install the application on a connected device for debugging
+
+The Google Play application is owned by [Petro Silenius](mailto:petro.silenius@gmail.com). Please contact him when you're planning to make a new relase.
