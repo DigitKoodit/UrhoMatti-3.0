@@ -27,7 +27,7 @@ class Song extends Component {
     );
 
     function handleGesture() {
-      if (touchstartX - touchendX > 50) {
+      if (touchstartX - touchendX > 80) {
         const songIndex = db['songs'].indexOf(song);
         const nextSongId = db['songs'][songIndex + 1] ? db['songs'][songIndex + 1].id : null;
         if (nextSongId) {
@@ -35,7 +35,7 @@ class Song extends Component {
         }
       }
 
-      if (touchendX - touchstartX > 50) {
+      if (touchendX - touchstartX > 80) {
         const songIndex = db['songs'].indexOf(song);
         const lastSongId = db['songs'][songIndex - 1] ? db['songs'][songIndex - 1].id : null;
         if (lastSongId) {
