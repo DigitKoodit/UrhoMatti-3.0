@@ -27,7 +27,7 @@ class Category extends Component {
     );
 
     function handleGesture() {
-      if (touchstartX - touchendX > 50) {
+      if (touchstartX - touchendX > 80) {
         const categoryIndex = db['categories'].indexOf(category);
         const nextCategoryId = db['categories'][categoryIndex + 1]
           ? db['categories'][categoryIndex + 1].title
@@ -37,7 +37,7 @@ class Category extends Component {
         }
       }
 
-      if (touchendX - touchstartX > 50) {
+      if (touchendX - touchstartX > 80) {
         const categoryIndex = db['categories'].indexOf(category);
         const lastCategoryId = db['categories'][categoryIndex - 1]
           ? db['categories'][categoryIndex - 1].title
