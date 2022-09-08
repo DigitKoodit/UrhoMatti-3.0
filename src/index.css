@@ -217,6 +217,7 @@ body {
 .song-melody {
   font-style: italic;
   margin-top: 0;
+  margin-bottom: 30px;
 }
 
 .song-lyrics {
